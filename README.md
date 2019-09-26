@@ -1,6 +1,6 @@
 # Pursuit Projects
 
-## Unit
+## Unit 1
 
 1. Types, Variables and Logic
 1. Control Flow 
