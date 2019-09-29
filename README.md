@@ -1,4 +1,4 @@
-# Pursuit Projects
+# Pursuit Core iOS
 
 ## Unit 1
 
