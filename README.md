@@ -9,8 +9,10 @@
 1. [readline() demo](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/ReadLineDemo/ReadLineDemo/main.swift)   
 1. [Loops, Part 1](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Loops-Part-1.playground/Contents.swift)  
 1. [Loops, Part 2](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Loops-Part-2.playground/Contents.swift)    
-1. [Strings, Part 1](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Strings-Part-1.playground/Contents.swift)    
-1. [Strings, Part 2](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Strings-Part-2.playground/Contents.swift)      
+1. [Strings, Part 1](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Strings-Part-1.playground/Contents.swift) 
+1. [Strings, Part 2](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Strings-Part-2.playground/Contents.swift)
+
+1. [Arrays, Part 1](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Arrays-Part-1.playground/Contents.swift)       
 
 
 #### Lecture Videos
@@ -24,6 +26,7 @@
 1. [Loops, Part 2](https://www.youtube.com/watch?v=kJQJiNpP5Jk&t=663s)    
 1. [Strings, Part 1](https://www.youtube.com/watch?v=0ov2jpoIRYw&t=4s)     
 1. [Strings, Part 2](https://youtu.be/JKUJ8Ns67s4)   
+1. [Arrays, Part 1](https://youtu.be/8EEEruma-lg)  
 
 
 
