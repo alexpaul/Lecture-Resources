@@ -8,8 +8,10 @@
 1. [Control Flow](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Control-Flow.playground/Contents.swift)   
 1. [readline() demo](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/ReadLineDemo/ReadLineDemo/main.swift)   
 1. [Loops, Part 1](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Loops-Part-1.playground/Contents.swift)  
-1. [Loops, Part 2](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Loops-Part-2.playground/Contents.swift)  
-1. [Strings, Part 1](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Strings-Part-1.playground/Contents.swift)   
+1. [Loops, Part 2](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Loops-Part-2.playground/Contents.swift)    
+1. [Strings, Part 1](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Strings-Part-1.playground/Contents.swift)    
+1. [Strings, Part 2](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Strings-Part-2.playground/Contents.swift)      
+
 
 #### Lecture Videos
 
@@ -20,7 +22,8 @@
 1. [Using readline() and macOS Command Line Tool to create a Text Adventure app](https://www.youtube.com/watch?v=QXyiVYO56_w&list=PLjdVqs-1R8wG5UCYQzbvAYP0wCEUySPey&index=2&t=2893s)    
 1. [Loops, Part 1](https://www.youtube.com/watch?v=v79dGoMFmrM&t=1277s)    
 1. [Loops, Part 2](https://www.youtube.com/watch?v=kJQJiNpP5Jk&t=663s)    
-1. [Strings, Part 1](https://www.youtube.com/watch?v=0ov2jpoIRYw&t=4s)       
+1. [Strings, Part 1](https://www.youtube.com/watch?v=0ov2jpoIRYw&t=4s)     
+1. [Strings, Part 2](https://youtu.be/JKUJ8Ns67s4)   
 
 
 
