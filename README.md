@@ -11,8 +11,13 @@
 1. [Loops, Part 2](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Loops-Part-2.playground/Contents.swift)    
 1. [Strings, Part 1](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Strings-Part-1.playground/Contents.swift)   
 1. [Strings, Part 2](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Strings-Part-2.playground/Contents.swift)     
-1. [Arrays, Part 1](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Arrays-Part-1.playground/Contents.swift)        
+1. [Arrays, Part 1](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Arrays-Part-1.playground/Contents.swift)   
+1. [Arrays, Part 2](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Arrays-Part-2.playground/Contents.swift)  
 
+
+#### Questions Review 
+
+1. [Reverse a String, Find the String with the most a's in an Array](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Questions-Review-10-04-19.playground/Contents.swift)  
 
 #### Lecture Videos
 
@@ -26,6 +31,16 @@
 1. [Strings, Part 1](https://www.youtube.com/watch?v=0ov2jpoIRYw&t=4s)     
 1. [Strings, Part 2](https://youtu.be/JKUJ8Ns67s4)   
 1. [Arrays, Part 1](https://youtu.be/8EEEruma-lg)  
+1. [Arrays, Part 2](https://www.youtube.com/watch?v=SAt0d3Zqqyg&t=40s)    
 
+
+#### Questions Review Videos
+
+1. [Reverse a String, Find the String with the most a's in an Array](https://www.youtube.com/watch?v=KVuEyVMcAx4&t=104s)   
+
+
+#### Lab Assignment Overview Videos
+
+1. [Hangman Commmand-line macOS application](https://www.youtube.com/watch?v=8fIK_q6EGcY)   
 
 
