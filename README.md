@@ -43,4 +43,8 @@
 
 1. [Hangman Commmand-line macOS application](https://www.youtube.com/watch?v=8fIK_q6EGcY)   
 
+#### Swift Lightning Round Videos 
+
+1. [Using CharacterSet - CharacterSet is great when you are looking for a particular set of characters](https://youtu.be/x_yzKLPa2L0)    
+
 
