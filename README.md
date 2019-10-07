@@ -13,6 +13,8 @@
 1. [Strings, Part 2](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Strings-Part-2.playground/Contents.swift)     
 1. [Arrays, Part 1](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Arrays-Part-1.playground/Contents.swift)   
 1. [Arrays, Part 2](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Arrays-Part-2.playground/Contents.swift)  
+1. [Optionals](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Optionals.playground/Contents.swift)   
+1. [Dictionaries](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Dictionaries.playground/Contents.swift)   
 
 
 #### Questions Review 
@@ -32,6 +34,8 @@
 1. [Strings, Part 2](https://youtu.be/JKUJ8Ns67s4)   
 1. [Arrays, Part 1](https://youtu.be/8EEEruma-lg)  
 1. [Arrays, Part 2](https://www.youtube.com/watch?v=SAt0d3Zqqyg&t=40s)    
+1. [Optionals](https://www.youtube.com/watch?v=AHegXlW7Lg4&list=PLjdVqs-1R8wG5UCYQzbvAYP0wCEUySPey&index=1)   
+1. [Dictionaries](https://www.youtube.com/watch?v=MZVckABm8dI&list=PLjdVqs-1R8wG5UCYQzbvAYP0wCEUySPey&index=2)   
 
 
 #### Questions Review Videos
