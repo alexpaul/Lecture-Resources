@@ -17,7 +17,7 @@
 1. [Dictionaries](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Dictionaries.playground/Contents.swift)   
 
 
-#### Questions Review 
+#### Questions Review Playgrounds and Projects
 
 1. [Reverse a String, Find the String with the most a's in an Array](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Questions-Review-10-04-19.playground/Contents.swift)  
 
