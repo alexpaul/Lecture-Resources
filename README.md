@@ -2,7 +2,7 @@
 
 ## Unit 1
 
-#### Xcode Playgronds, Projects
+#### In-class Xcode Playgrounds and Projects
 
 1. [Types, Variables and Logic](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Types-Variables.playground/Contents.swift)   
 1. [Control Flow](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Control-Flow.playground/Contents.swift)    
