@@ -20,6 +20,7 @@
 #### Questions Review Playgrounds and Projects
 
 1. [Reverse a String, Find the String with the most a's in an Array](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Questions-Review-10-04-19.playground/Contents.swift)  
+1. [Optionals and Dictionary](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Questions-Review-Optionals-Dictionaries.playground/Contents.swift)   
 
 #### Lecture Videos
 
@@ -36,11 +37,14 @@
 1. [Arrays, Part 2](https://www.youtube.com/watch?v=SAt0d3Zqqyg&t=40s)    
 1. [Optionals](https://www.youtube.com/watch?v=AHegXlW7Lg4&list=PLjdVqs-1R8wG5UCYQzbvAYP0wCEUySPey&index=1)   
 1. [Dictionaries](https://www.youtube.com/watch?v=MZVckABm8dI&list=PLjdVqs-1R8wG5UCYQzbvAYP0wCEUySPey&index=2)   
+1. [Sets](https://studio.youtube.com/video/dJWw4jdyd2I/edit)   
 
 
 #### Questions Review Videos
 
 1. [Reverse a String, Find the String with the most a's in an Array](https://www.youtube.com/watch?v=KVuEyVMcAx4&t=104s)   
+1. [Optionals and Dictionary](https://studio.youtube.com/video/E3l3w62fXf8/edit)   
+
 
 
 #### Lab Assignment Overview Videos
