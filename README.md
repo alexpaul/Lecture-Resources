@@ -16,12 +16,14 @@
 1. [Optionals](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Optionals.playground/Contents.swift)   
 1. [Dictionaries](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Dictionaries.playground/Contents.swift)  
 1. [Sets](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Sets.playground/Contents.swift)   
+1. [Functions, Part 1](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Functions-Part-1.playground/Contents.swift)   
 
 
 #### Questions Review Playgrounds and Projects
 
 1. [Reverse a String, Find the String with the most a's in an Array](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Questions-Review-10-04-19.playground/Contents.swift)  
 1. [Optionals and Dictionary](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Questions-Review-Optionals-Dictionaries.playground/Contents.swift)   
+1. [Sets](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Questions-Review-Sets.playground/Contents.swift)   
 
 #### Lecture Videos
 
@@ -39,13 +41,14 @@
 1. [Optionals](https://www.youtube.com/watch?v=AHegXlW7Lg4&list=PLjdVqs-1R8wG5UCYQzbvAYP0wCEUySPey&index=1)   
 1. [Dictionaries](https://www.youtube.com/watch?v=MZVckABm8dI&list=PLjdVqs-1R8wG5UCYQzbvAYP0wCEUySPey&index=2)   
 1. [Sets](https://youtu.be/dJWw4jdyd2I)   
+1. [Functions, Part 1](https://www.youtube.com/watch?v=bSEw2efBMvU&t=160s)   
 
 
 #### Questions Review Videos
 
 1. [Reverse a String, Find the String with the most a's in an Array](https://www.youtube.com/watch?v=KVuEyVMcAx4&t=104s)   
 1. [Optionals and Dictionary](https://youtu.be/E3l3w62fXf8)   
-
+1. [Sets](https://www.youtube.com/watch?v=c9D4dxp117k&t=3s)   
 
 
 #### Lab Assignment Overview Videos
@@ -54,6 +57,9 @@
 
 #### Swift Lightning Round Videos 
 
-1. [Using CharacterSet - CharacterSet is great when you are looking for a particular set of characters](https://youtu.be/x_yzKLPa2L0)    
+1. [Using CharacterSet - CharacterSet is great when you are looking for a particular set of characters](https://youtu.be/x_yzKLPa2L0)  
+1. [Creating the alphabets using UnicodeScaler and Range](https://www.youtube.com/watch?v=_uPqpa969Ds&t=94s)   
+1. [Unwrapping optionals using guard in functions](https://www.youtube.com/watch?v=8AzVFhsNIvQ&t=41s)   
+
 
 
