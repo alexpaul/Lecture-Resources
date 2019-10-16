@@ -27,6 +27,7 @@
 1. [Sets](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Questions-Review-Sets.playground/Contents.swift)  
 1. [Dictionary and Closures](https://gist.github.com/alexpaul/5403e38feb13e954cb1b58856fda73e5)   
 1. [Closures and Implementing a custom map function](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Questions-Review-Closures-Custom-map.playground/Contents.swift)   
+1. [Enumerations (Enums), Part 1](https://youtu.be/mo5EogdY1kw)  
 
 #### Lecture Videos
 
@@ -55,6 +56,7 @@
 1. [Sets](https://www.youtube.com/watch?v=c9D4dxp117k&t=3s)   
 1. [Solving algorithms and Pair programming](https://youtu.be/FpDznrg5ZcI)   
 1. [Dictionary and Closures](https://youtu.be/OBPWLLiPcZ0)    
+1. [Closures and implementing custom map](https://youtu.be/tvxw1kC3750)   
 
 
 #### Lab Assignment Overview Videos
