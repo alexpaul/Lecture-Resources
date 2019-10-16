@@ -1,6 +1,6 @@
 import UIKit
 
-// enumerations or enums: a group of relation value or items
+// enumerations or enums: a group of related value or items
 //              e.g days of the week, mta train lines, number of fingers,
 //              compass points
 
