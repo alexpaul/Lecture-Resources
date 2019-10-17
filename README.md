@@ -19,6 +19,7 @@
 1. [Functions, Part 1](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Functions-Part-1.playground/Contents.swift)   
 1. [Closures, Part 1](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Closures-Part-1.playground/Contents.swift)   
 1. [Enumerations (Enums), Part 1](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Enums-Part-1.playground/Contents.swift) 
+1. [Enumerations (Enums), Part 2](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Enums-Part-2.playground/Contents.swift)  
 
 #### Questions Review Playgrounds and Projects
 
@@ -47,6 +48,7 @@
 1. [Functions, Part 1](https://www.youtube.com/watch?v=bSEw2efBMvU&t=160s)   
 1. [Closures, Part 1](https://youtu.be/em5lUr4gh6c)    
 1. [Enumerations (Enums), Part 1](https://youtu.be/mo5EogdY1kw)  
+1. [Enumerations (Enums), Part 2](https://youtu.be/Wn3o3EdIs0E) 
 
 
 #### Questions Review Videos
