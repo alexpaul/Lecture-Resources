@@ -21,6 +21,7 @@
 1. [Enumerations (Enums), Part 1](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Enums-Part-1.playground/Contents.swift) 
 1. [Enumerations (Enums), Part 2](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Enums-Part-2.playground/Contents.swift)  
 1. [Structs](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Structs.playground/Contents.swift)   
+1. [Classes](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Classes.playground/Contents.swift)   
 
 #### Questions Review Playgrounds and Projects
 
@@ -52,6 +53,7 @@
 1. [Enumerations (Enums), Part 1](https://youtu.be/mo5EogdY1kw)  
 1. [Enumerations (Enums), Part 2](https://youtu.be/Wn3o3EdIs0E) 
 1. [Structs](https://youtu.be/TJUHqNw7fi4)   
+1. [Classes](https://youtu.be/fePinLSpJ_8)   
 
 
 #### Questions Review Videos
