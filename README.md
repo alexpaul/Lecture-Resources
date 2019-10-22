@@ -6,7 +6,6 @@
 
 1. [Types, Variables and Logic](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Types-Variables.playground/Contents.swift)   
 1. [Control Flow](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Control-Flow.playground/Contents.swift)    
-1. [readline() demo](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/ReadLineDemo/ReadLineDemo/main.swift)    
 1. [Loops, Part 1](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Loops-Part-1.playground/Contents.swift)   
 1. [Loops, Part 2](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Loops-Part-2.playground/Contents.swift)    
 1. [Strings, Part 1](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Strings-Part-1.playground/Contents.swift)   
@@ -23,8 +22,14 @@
 1. [Structs](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Structs.playground/Contents.swift)   
 1. [Classes](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Classes.playground/Contents.swift)  
 1. [Structs and Classes Wrapup](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Structs-and-Classes-Wrapup.playground/Contents.swift)   
-1. [Initialization](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Initialization.playground/Contents.swift)  
+1. [Initialization](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Initialization.playground/Contents.swift) 
+
+
+#### In-class Project Demo 
+
+1. [readline() demo](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/ReadLineDemo/ReadLineDemo/main.swift)    
 1. [TriviaGame](https://github.com/alexpaul/Pursuit-Core-iOS/tree/master/Unit1/TriviaGame/TriviaGame)   
+
 
 #### Questions Review Playgrounds and Projects
 
@@ -33,15 +38,15 @@
 1. [Sets](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Questions-Review-Sets.playground/Contents.swift)  
 1. [Dictionary and Closures](https://gist.github.com/alexpaul/5403e38feb13e954cb1b58856fda73e5)   
 1. [Closures and Implementing a custom map function](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Questions-Review-Closures-Custom-map.playground/Contents.swift)   
-1. [Enums](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Questions-Review-Enums.playground/Contents.swift)   
+1. [Enums](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Questions-Review-Enums.playground/Contents.swift) 
+
 
 #### Lecture Videos
 
 1. [Pushing a Local Repository to Github](https://www.youtube.com/watch?v=UBIULfmEynA&list=PLjdVqs-1R8wG5UCYQzbvAYP0wCEUySPey&index=6&t=4s) 
 1. [Types, Variables and Logic](https://www.youtube.com/watch?v=svm8SU1AuFA&list=PLjdVqs-1R8wG5UCYQzbvAYP0wCEUySPey&index=5&t=8s)      
 1. [Control flow](https://www.youtube.com/watch?v=zXozLu5jhqE&list=PLjdVqs-1R8wG5UCYQzbvAYP0wCEUySPey&index=4&t=3s)    
-1. [Introduction to Optionals](https://www.youtube.com/watch?v=ahviHGF3260&list=PLjdVqs-1R8wG5UCYQzbvAYP0wCEUySPey&index=3&t=6s)    
-1. [Using readline() and macOS Command Line Tool to create a Text Adventure app](https://www.youtube.com/watch?v=QXyiVYO56_w&list=PLjdVqs-1R8wG5UCYQzbvAYP0wCEUySPey&index=2&t=2893s)    
+1. [Introduction to Optionals](https://www.youtube.com/watch?v=ahviHGF3260&list=PLjdVqs-1R8wG5UCYQzbvAYP0wCEUySPey&index=3&t=6s)       
 1. [Loops, Part 1](https://www.youtube.com/watch?v=v79dGoMFmrM&t=1277s)    
 1. [Loops, Part 2](https://www.youtube.com/watch?v=kJQJiNpP5Jk&t=663s)    
 1. [Strings, Part 1](https://www.youtube.com/watch?v=0ov2jpoIRYw&t=4s)     
@@ -56,7 +61,9 @@
 1. [Enumerations (Enums), Part 1](https://youtu.be/mo5EogdY1kw)  
 1. [Enumerations (Enums), Part 2](https://youtu.be/Wn3o3EdIs0E) 
 1. [Structs](https://youtu.be/TJUHqNw7fi4)   
-1. [Classes](https://youtu.be/fePinLSpJ_8)   
+1. [Classes](https://youtu.be/fePinLSpJ_8)  
+1  [Structs and Classess wrap up](https://youtu.be/rmyJy77kBOE)   
+1. [Initialization](https://youtu.be/H9_HKtk3i6Q)   
 
 
 #### Questions Review Videos
@@ -67,7 +74,13 @@
 1. [Solving algorithms and Pair programming](https://youtu.be/FpDznrg5ZcI)   
 1. [Dictionary and Closures](https://youtu.be/OBPWLLiPcZ0)    
 1. [Closures and implementing custom map](https://youtu.be/tvxw1kC3750)   
-1. [Enums](https://youtu.be/tiDCGx3nm-U)   
+1. [Enums](https://youtu.be/tiDCGx3nm-U)
+
+
+#### Project Demo Videos 
+
+1. [Using readline() and macOS Command Line Tool to create a Text Adventure app](https://www.youtube.com/watch?v=QXyiVYO56_w&list=PLjdVqs-1R8wG5UCYQzbvAYP0wCEUySPey&index=2&t=2893s)   
+1. [TriviaGame, Part 1](https://youtu.be/5QGVZFkQtY0)   
 
 
 #### Lab Assignment Overview Videos
