@@ -28,7 +28,7 @@
 #### In-class Project Demo 
 
 1. [readline() demo](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/ReadLineDemo/ReadLineDemo/main.swift)    
-1. [TriviaGame](https://github.com/alexpaul/Pursuit-Core-iOS/tree/master/Unit1/TriviaGame/TriviaGame)   
+1. [TriviaGame, Part 1](https://github.com/alexpaul/Pursuit-Core-iOS/tree/master/Unit1/TriviaGame/TriviaGame)   
 
 
 #### Questions Review Playgrounds and Projects
