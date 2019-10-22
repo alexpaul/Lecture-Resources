@@ -61,8 +61,8 @@
 1. [Enumerations (Enums), Part 1](https://youtu.be/mo5EogdY1kw)  
 1. [Enumerations (Enums), Part 2](https://youtu.be/Wn3o3EdIs0E) 
 1. [Structs](https://youtu.be/TJUHqNw7fi4)      
-1. [Classes](https://youtu.be/fePinLSpJ_8)     
-1  [Structs and Classess wrap up](https://youtu.be/rmyJy77kBOE)     
+1. [Classes](https://youtu.be/fePinLSpJ_8)    
+1. [Structs and Classes Wrap up](https://youtu.be/rmyJy77kBOE)    
 1. [Initialization](https://youtu.be/H9_HKtk3i6Q)     
 
 
