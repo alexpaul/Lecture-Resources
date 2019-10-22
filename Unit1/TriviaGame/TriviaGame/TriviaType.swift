@@ -8,9 +8,9 @@
 
 import Foundation
 
-// 1. TODO: make TriviaType a rawValue of String
-enum TriviaType {
-  case movieTrivia
+// TriviaType has a rawValue of String
+enum TriviaType: String {
+  case movieTrivia // movieTrivia.rawValue = "movieTrivia"
   case musicTrivia
   case sportsTrivia
   case nycTrivia

@@ -67,8 +67,8 @@
 			children = (
 				572BA087235E3D7A00FD8B85 /* TriviaData.swift */,
 				572BA08B235E441500FD8B85 /* TriviaType.swift */,
-				572BA08D235E497700FD8B85 /* Game.swift */,
 				572BA089235E3FEE00FD8B85 /* Question.swift */,
+				572BA08D235E497700FD8B85 /* Game.swift */,
 				572BA080235E3C9B00FD8B85 /* main.swift */,
 			);
 			path = TriviaGame;

@@ -8,7 +8,7 @@
 
 import Foundation
 
-class Question {
+class Question { // this should be a struct
   var questionPrompt: String
   var correctAnswer: String
   var choices: String
@@ -28,9 +28,9 @@ class Question {
     self.triviaType = triviaType
   }
   
-  // TODO: create a failable convenience initializer that
+  // failable convenience initializer that
   // takes in a dictionary of type [String: Any]
-  convenience init?(dict: [String: Any]) {
+   convenience init?(dict: [String: Any]) {
     guard let questionPrompt = dict["question"] as? String,
       let correctAnswer = dict["correctAnswer"] as? String,
       let choices = dict["choices"] as? String,
@@ -38,11 +38,16 @@ class Question {
       let triviaType = dict["triviaType"] as? String else {
         return nil
     }
-    // 2. TODO: get a valid TriviaType from the enum to add to the designated initializer below
+    //  a valid TriviaType from the enum to add to the designated initializer below
     self.init(questionPrompt: questionPrompt,
               correctAnswer: correctAnswer,
               choices: choices,
               fact: fact,
-              triviaType: .movieTrivia)
+              // creating a TriviaType using the rawValue
+              // initializer
+      triviaType: TriviaType(rawValue: triviaType) ?? TriviaType.sportsTrivia)
   }
 }
+
+
+
