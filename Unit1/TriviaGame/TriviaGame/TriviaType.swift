@@ -14,4 +14,5 @@ enum TriviaType: String {
   case musicTrivia
   case sportsTrivia
   case nycTrivia
+  case earlyChildhoodEducation
 }

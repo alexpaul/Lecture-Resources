@@ -65,7 +65,6 @@ class Game {
       }
     }
     totalQuestions = questions.count
-    print("\(questions.count) questions were created")
   }
   
   
@@ -77,7 +76,7 @@ class Game {
       score += 1
       print("Correct Answer.\n\(question.fact)")
     } else {
-      print("Wrong answer.\n\(question.fact)")
+      print("Wrong answer. Answer is \(question.correctAnswer)\n\(question.fact)")
     }
   }
   
@@ -106,6 +105,8 @@ class Game {
       createQuestions(.musicTrivia)
     case "4":
       createQuestions(.nycTrivia)
+    case "5":
+      createQuestions(.earlyChildhoodEducation)
     default:
       print("Trivia type is unavailable")
     }

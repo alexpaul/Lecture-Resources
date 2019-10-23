@@ -19,6 +19,7 @@ Select the type of Trivia you would like to play?
 2. Sports Trivia
 3. Music Trivia
 4. NYC Trivia
+5. Early Childhood Education
 """
 
 repeat { // checks if user wants to continue
