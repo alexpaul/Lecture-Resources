@@ -14,13 +14,13 @@ class Game {
   
   // a questions array property [Question]
   // instance property
-  var questions = [Question]()
+  private var questions = [Question]()
   
   // a score property
-  var score = 0 // stored property
+  private var score = 0 // stored property
   
   // keep track of total questions given to user
-  var totalQuestions = 0 // stored property
+  private var totalQuestions = 0 // stored property
   
   // computed property, instance property
   // e.g game.hasMoreQuestions, return true or false
@@ -35,9 +35,7 @@ class Game {
   // MARK: Methods of Game
   // write a method to get a shuffled question
   func getQuestion() -> Question? {
-    // shuffle the array
-    questions = questions.shuffled()
-    // popLast removes the last element and returns it
+    questions.shuffle()
     return questions.popLast()
   }
   
@@ -72,13 +70,9 @@ class Game {
   // method to check if the answer is correct
   //    and increment the score by 1 
   func checkAnswer(usersAnswer: String, question: Question) {
-    if usersAnswer == question.correctAnswer {
-      // increment the score by 1
+    if question.checkAnswer(userAnswer: usersAnswer) {
       score += 1
-      print("Correct Answer.\n\(question.fact)")
-    } else {
-      print("Wrong answer.\n\(question.fact)")
-    }
+    } 
   }
   
   // Write a method that prints out the final score and total number of questions.

@@ -8,12 +8,12 @@
 
 import Foundation
 
-class Question { // this should be a struct
-  var questionPrompt: String
-  var correctAnswer: String
-  var choices: String
-  var fact: String
-  var triviaType: TriviaType // movieTrivia, musicTrivia, sportsTrivia, nycTrivia
+struct Question { // this should be a struct
+  private var questionPrompt: String
+  private var correctAnswer: String
+  private var choices: String
+  private var fact: String
+  private var triviaType: TriviaType // movieTrivia, musicTrivia, sportsTrivia, nycTrivia
   
   // designated initializer
   init(questionPrompt: String,
@@ -30,7 +30,7 @@ class Question { // this should be a struct
   
   // failable convenience initializer that
   // takes in a dictionary of type [String: Any]
-   convenience init?(dict: [String: Any]) {
+  init?(dict: [String: Any]) {
     guard let questionPrompt = dict["question"] as? String,
       let correctAnswer = dict["correctAnswer"] as? String,
       let choices = dict["choices"] as? String,
@@ -44,8 +44,24 @@ class Question { // this should be a struct
               choices: choices,
               fact: fact,
               // creating a TriviaType using the rawValue
-              // initializer
+      // initializer
       triviaType: TriviaType(rawValue: triviaType) ?? TriviaType.sportsTrivia)
+  }
+  
+  func showQuestion() {
+    print(questionPrompt)
+    print(choices)
+  }
+  
+  func checkAnswer(userAnswer: String) -> Bool {
+    var isCorrect = false
+    if userAnswer == correctAnswer {
+      print("Correct answer.\n\(fact)")
+      isCorrect = true
+    } else {
+      print("Wrong answer.\n\(fact)")
+    }
+    return isCorrect
   }
 }
 

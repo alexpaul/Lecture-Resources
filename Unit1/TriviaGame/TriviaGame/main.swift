@@ -30,8 +30,7 @@ repeat { // checks if user wants to continue
     guard let question = game.getQuestion() else {
       break
     }
-    print(question.questionPrompt)
-    print(question.choices)
+    question.showQuestion() 
     let userAnswer = readLine() ?? ""
     game.checkAnswer(usersAnswer: userAnswer, question: question)
     print()
