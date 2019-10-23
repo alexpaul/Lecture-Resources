@@ -28,7 +28,7 @@
 #### In-class Project Demo 
 
 1. [readline() demo](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/ReadLineDemo/ReadLineDemo/main.swift)    
-1. [TriviaGame, Part 1](https://github.com/alexpaul/Pursuit-Core-iOS/tree/master/Unit1/TriviaGame/TriviaGame)   
+1. [TriviaGame](https://github.com/alexpaul/Pursuit-Core-iOS/tree/master/Unit1/TriviaGame/TriviaGame)   
 
 
 #### Questions Review Playgrounds and Projects
@@ -80,7 +80,10 @@
 #### Project Demo Videos 
 
 1. [Using readline() and macOS Command Line Tool to create a Text Adventure app](https://www.youtube.com/watch?v=QXyiVYO56_w&list=PLjdVqs-1R8wG5UCYQzbvAYP0wCEUySPey&index=2&t=2893s)   
-1. [TriviaGame, Part 1](https://youtu.be/5QGVZFkQtY0)   
+1. [TriviaGame, Part 1](https://youtu.be/5QGVZFkQtY0) 
+1. [TriviaGame, Part 2](https://youtu.be/JaQRfmf7RF4)   
+1. [TriviaGame, Part 3](https://youtu.be/J-tvDMz5ZiM)   
+1. [TriviaGame, Part 4](https://youtu.be/SePUzHKbqrw)   
 
 
 #### Lab Assignment Overview Videos
