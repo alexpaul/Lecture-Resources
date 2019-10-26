@@ -19,7 +19,7 @@ Select the type of Trivia you would like to play?
 2. Sports Trivia
 3. Music Trivia
 4. NYC Trivia
-5. Early Childhood Education
+5. Second Grade Math
 """
 
 repeat { // checks if user wants to continue
@@ -31,6 +31,7 @@ repeat { // checks if user wants to continue
     guard let question = game.getQuestion() else {
       break
     }
+    game.questionsInfo()
     print(question.questionPrompt)
     print(question.choices)
     let userAnswer = readLine() ?? ""

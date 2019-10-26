@@ -8,11 +8,10 @@
 
 import Foundation
 
-// TriviaType has a rawValue of String
 enum TriviaType: String {
   case movieTrivia // movieTrivia.rawValue = "movieTrivia"
   case musicTrivia
   case sportsTrivia
   case nycTrivia
-  case earlyChildhoodEducation
+  case secondGradeMath
 }

@@ -106,9 +106,17 @@ class Game {
     case "4":
       createQuestions(.nycTrivia)
     case "5":
-      createQuestions(.earlyChildhoodEducation)
+      createQuestions(.secondGradeMath)
     default:
       print("Trivia type is unavailable")
+    }
+  }
+  
+  func questionsInfo() {
+    if questions.isEmpty {
+      print("Last question.\n")
+    } else {
+      print("There are \(questions.count + 1) questions left.\n")
     }
   }
   
