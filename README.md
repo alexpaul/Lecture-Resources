@@ -22,7 +22,8 @@
 1. [Structs](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Structs.playground/Contents.swift)   
 1. [Classes](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Classes.playground/Contents.swift)  
 1. [Structs and Classes Wrapup](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Structs-and-Classes-Wrapup.playground/Contents.swift)   
-1. [Initialization](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Initialization.playground/Contents.swift) 
+1. [Initialization](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Initialization.playground/Contents.swift)
+1. [Encapsulation](https://gist.github.com/alexpaul/ab4c53b36c1ccfc068a32c45fefbc4a6)    
 
 
 #### In-class Project Demo 
