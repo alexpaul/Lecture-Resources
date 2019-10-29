@@ -3,7 +3,7 @@
 ## Unit 1
 
 <details> 
-  <summary>Unit 1 - Swift Language Fundamentals</summary>
+  <summary>Swift Language Fundamentals</summary>
 
 #### In-class Xcode Playgrounds and Projects
 
@@ -105,7 +105,7 @@
 
 ## Unit 2
 <details> 
-  <summary>Unit 2 - iOS Development with UIKit</summary>
+  <summary>iOS Development with UIKit</summary>
 
 #### In-class Xcode Playgrounds and Projects
 
