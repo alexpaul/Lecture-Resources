@@ -106,5 +106,16 @@
 ## Unit 2
 <details> 
   <summary>Unit 2 - iOS Development with UIKit</summary>
+
+#### In-class Xcode Playgrounds and Projects
+
+1. [Introduction to iOS Development with UIKit]()   
+
+#### Lecture Videos
+
+1. [Introduction to iOS Development with UIKit](https://youtu.be/KaTUb8-UuT4)  
+
+
+
 </details> 
 
