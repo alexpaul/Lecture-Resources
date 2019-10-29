@@ -2,6 +2,9 @@
 
 ## Unit 1
 
+<details> 
+  <summary>Unit 1 - Swift Language Fundamentals</summary>
+
 #### In-class Xcode Playgrounds and Projects
 
 1. [Types, Variables and Logic](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Types-Variables.playground/Contents.swift)   
@@ -98,5 +101,10 @@
 1. [Creating the alphabets using UnicodeScaler and Range](https://www.youtube.com/watch?v=_uPqpa969Ds&t=94s)   
 1. [Unwrapping optionals using guard in functions](https://www.youtube.com/watch?v=8AzVFhsNIvQ&t=41s)   
 
+</details> 
 
+## Unit 2
+<details> 
+  <summary>Unit 2 - iOS Development with UIKit</summary>
+</details> 
 
