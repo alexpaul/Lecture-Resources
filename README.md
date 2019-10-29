@@ -109,7 +109,7 @@
 
 #### In-class Xcode Playgrounds and Projects
 
-1. [Introduction to iOS Development with UIKit - MyFirstApp](https://github.com/alexpaul/Pursuit-Core-iOS/tree/master/Unit2/MyFirstApp)     
+1. [Introduction to iOS Development with UIKit - MyFirstApp](https://github.com/alexpaul/MyFirstApp)     
 
 #### Lecture Videos
 
