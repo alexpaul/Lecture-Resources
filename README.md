@@ -109,12 +109,11 @@
 
 #### In-class Xcode Playgrounds and Projects
 
-1. [Introduction to iOS Development with UIKit]()   
+1. [Introduction to iOS Development with UIKit - MyFirstApp](https://github.com/alexpaul/Pursuit-Core-iOS/tree/master/Unit2/MyFirstApp)     
 
 #### Lecture Videos
 
 1. [Introduction to iOS Development with UIKit](https://youtu.be/KaTUb8-UuT4)  
-
 
 
 </details> 
