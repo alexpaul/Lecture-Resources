@@ -107,7 +107,7 @@
 <details> 
   <summary>iOS Development with UIKit</summary>
 
-#### In-class Xcode Playgrounds and Projects
+#### In-class Xcode Projects and Playgrounds
 
 1. [Introduction to iOS Development with UIKit - MyFirstApp](https://github.com/alexpaul/MyFirstApp)     
 
