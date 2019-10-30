@@ -115,6 +115,11 @@
 #### Lecture Videos
 
 1. [Introduction to iOS Development with UIKit](https://youtu.be/KaTUb8-UuT4)  
+1. [Introduction to MVC Architecture](https://youtu.be/mP1VV5uNJkE)  
+
+#### Github Videos
+
+1. [Creating and pushing a Github project from Xcode](https://youtu.be/KzwLzE1dvh0)   
 
 
 </details> 
