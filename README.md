@@ -110,7 +110,8 @@
 #### In-class Xcode Projects and Playgrounds
 
 1. [Introduction to iOS Development with UIKit - MyFirstApp](https://github.com/alexpaul/MyFirstApp) 
-1. [Recipes app using MVC Architecture](https://github.com/alexpaul/Recipes-Intro-To-MVC-Architecture)    
+1. [Recipes app using MVC Architecture](https://github.com/alexpaul/Recipes-Intro-To-MVC-Architecture)  
+1. [Delegation with UITextField - GuessingGame](https://github.com/alexpaul/GuessingGame)    
 
 #### Lecture Videos
 
