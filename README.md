@@ -119,6 +119,7 @@
 1. [Introduction to iOS Development with UIKit](https://youtu.be/KaTUb8-UuT4)  
 1. [Introduction to MVC Architecture](https://youtu.be/mP1VV5uNJkE)  
 1. [Protocols](https://youtu.be/A_2GhR1GEt0)   
+1. [Delegation through UITextField](https://youtu.be/KoDEl5nWT00)   
 
 #### Github Videos
 
