@@ -134,7 +134,11 @@
 
 #### Github Videos
 
-1. [Creating and pushing a Github project from Xcode](https://youtu.be/KzwLzE1dvh0)   
+1. [Creating and pushing a Github project from Xcode](https://youtu.be/KzwLzE1dvh0)  
+
+#### Lab Assignment Overview Videos
+
+1. [Hangman iOS app](https://youtu.be/1QwnrOIis3M)   
 
 
 </details> 
