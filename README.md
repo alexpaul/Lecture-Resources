@@ -113,7 +113,9 @@
 1. [Recipes app using MVC Architecture](https://github.com/alexpaul/Recipes-Intro-To-MVC-Architecture) 
 1. [Protocols](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit2/Protocols.playground/Contents.swift)   
 1. [Delegation with UITextField - GuessingGame](https://github.com/alexpaul/GuessingGame)   
-1. [Big O Notation](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit2/Big-O-Notation.playground/Contents.swift)   
+1. [Big O Notation](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit2/Big-O-Notation.playground/Contents.swift)
+1. [Autolayout](https://github.com/alexpaul/Autolayout)  
+1. [App Life Cycle and UIControls](https://github.com/alexpaul/AppLifeCycle-UIControls)   
 
 #### Lecture Videos
 
@@ -121,7 +123,14 @@
 1. [Introduction to MVC Architecture](https://youtu.be/mP1VV5uNJkE)  
 1. [Protocols](https://youtu.be/A_2GhR1GEt0)   
 1. [Delegation through UITextField](https://youtu.be/KoDEl5nWT00)   
-1. [Big O Notation](https://youtu.be/b9AvLEFihFw)    
+1. [Big O Notation](https://youtu.be/b9AvLEFihFw)  
+1. [Autolayout, Part 1](https://youtu.be/VETNb_Auvwc)    
+1. [Autolayout, Part 2](https://youtu.be/Uel4zvcntzc)    
+1. [Autolayout, Part 3](https://youtu.be/OEY66TwOBJg)    
+1. [App Life Cycle Methods and UIControls in UIKit, Part 1](https://youtu.be/stqGtoNubRM)    
+1. [App Life Cycle Methods and UIControls in UIKit, Part 2](https://youtu.be/oFEJvMtUQvw)    
+1. [App Life Cycle Methods and UIControls in UIKit, Part 3](https://youtu.be/-p2vgQvrj80)    
+
 
 #### Github Videos
 
