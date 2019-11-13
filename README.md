@@ -116,6 +116,8 @@
 1. [Big O Notation](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit2/Big-O-Notation.playground/Contents.swift)
 1. [Autolayout](https://github.com/alexpaul/Autolayout)  
 1. [App Life Cycle and UIControls](https://github.com/alexpaul/AppLifeCycle-UIControls)   
+1. [TableViews](https://github.com/alexpaul/TableViews)   
+
 
 #### Lecture Videos
 
@@ -130,6 +132,12 @@
 1. [App Life Cycle Methods and UIControls in UIKit, Part 1](https://youtu.be/stqGtoNubRM)    
 1. [App Life Cycle Methods and UIControls in UIKit, Part 2](https://youtu.be/oFEJvMtUQvw)    
 1. [App Life Cycle Methods and UIControls in UIKit, Part 3](https://youtu.be/-p2vgQvrj80)    
+1. [Autolayout, Part 4: Size Classes](https://youtu.be/sow7DKepmp8)   
+1. [Introduction to UITableView](https://youtu.be/QVU6Va49ln0)   
+1. [UITableView Sections, Part 1](https://youtu.be/E7pBJMd_N6w)   
+1. [UITableView Sections, Part 2](https://youtu.be/tc8l3YlbUho)   
+1. [UITableView Sections, Part 3](https://youtu.be/JtwzkbE8zKY)   
+
 
 
 #### Github Videos
