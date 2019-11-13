@@ -1,5 +1,9 @@
 import UIKit
 
+//====================================================
+// Lecture Video: https://youtu.be/b9AvLEFihFw
+//====================================================
+
 // Big O Notation: calculating the performanc of a given algorithm
 
 // Big O has two performance metrics:
