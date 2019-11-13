@@ -165,6 +165,7 @@
 
 #### Lab Assignment Overview Videos
 
+1. [Tic Tac Toe](https://youtu.be/0Se5rK5VOJE)  
 1. [Hangman iOS app](https://youtu.be/1QwnrOIis3M)   
 
 
