@@ -89,6 +89,13 @@
 1. [TriviaGame, Part 3](https://youtu.be/J-tvDMz5ZiM)   
 1. [TriviaGame, Part 4](https://youtu.be/SePUzHKbqrw)   
 
+#### Labs 
+
+1. Daily labs on Swift Fundamental Topics
+1. Text-Based Adventure 
+1. Hangman CLI 
+1. Calculator CLI 
+
 
 #### Lab Assignment Overview Videos
 
@@ -142,7 +149,19 @@
 
 #### Github Videos
 
-1. [Creating and pushing a Github project from Xcode](https://youtu.be/KzwLzE1dvh0)  
+1. [Creating and pushing a Github project from Xcode](https://youtu.be/KzwLzE1dvh0) 
+
+#### Labs 
+
+1. Three Card Monte
+1. ColorGuessingGame 
+1. TextTwist
+1. TicTacToe
+1. Autolayout-Lab
+1. CardGenerator
+1. TableView-Sections-Lab 
+1. Multiple-MVC-Lab (segue and pass data between view controllers)   
+
 
 #### Lab Assignment Overview Videos
 
