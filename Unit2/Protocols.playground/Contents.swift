@@ -1,5 +1,10 @@
 import UIKit
 
+//===================================================
+// Lecture Video: https://youtu.be/A_2GhR1GEt0
+//===================================================
+
+
 // Protocol: is a blueprint that list properties, methods or initializers that a (conforming type - could be an enum, a struct or a class)  is required to implement
 
 protocol SomeProtocol {
