@@ -124,6 +124,7 @@
 1. [Autolayout](https://github.com/alexpaul/Autolayout)  
 1. [App Life Cycle and UIControls](https://github.com/alexpaul/AppLifeCycle-UIControls)   
 1. [TableViews](https://github.com/alexpaul/TableViews)   
+1. [DatePicker, Date, Unwind Segue](https://github.com/alexpaul/DatePicker)   
 
 
 #### Lecture Videos
@@ -144,7 +145,8 @@
 1. [UITableView Sections, Part 1](https://youtu.be/E7pBJMd_N6w)   
 1. [UITableView Sections, Part 2](https://youtu.be/tc8l3YlbUho)   
 1. [UITableView Sections, Part 3](https://youtu.be/JtwzkbE8zKY)   
-
+1. [DatePicker, Date, Unwind Segue, Part 1](https://youtu.be/VXEHsZ1lH3Q)   
+1. [DatePicker, Date, Unwind Segue, Part 2](https://youtu.be/thUCqyEBdaY)   
 
 
 #### Github Videos
