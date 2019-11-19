@@ -166,7 +166,9 @@
 1. Autolayout-Lab
 1. CardGenerator
 1. TableView-Sections-Lab 
-1. Multiple-MVC-Lab (segue and pass data between view controllers)   
+1. Multiple-MVC-Lab (segue and pass data between view controllers)  
+1. ZooAnimals 
+1. Game of Thrones 
 
 
 #### Lab Assignment Overview Videos
