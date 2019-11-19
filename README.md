@@ -124,7 +124,8 @@
 1. [Autolayout](https://github.com/alexpaul/Autolayout)  
 1. [App Life Cycle and UIControls](https://github.com/alexpaul/AppLifeCycle-UIControls)   
 1. [TableViews](https://github.com/alexpaul/TableViews)   
-1. [DatePicker, Date, Unwind Segue](https://github.com/alexpaul/DatePicker)   
+1. [DatePicker, Date, Unwind Segue](https://github.com/alexpaul/DatePicker) 
+1. [FellowCountries - Resizing cells, Custom cells, Dynamic type](https://github.com/alexpaul/FellowCountries)   
 
 
 #### Lecture Videos
@@ -148,6 +149,8 @@
 1. [DatePicker, Date, Unwind Segue, Part 1](https://youtu.be/VXEHsZ1lH3Q)   
 1. [DatePicker, Date, Unwind Segue, Part 2](https://youtu.be/thUCqyEBdaY)   
 1. [DatePicker, Date, Unwind Segue, Part 3](https://youtu.be/aAxjJtQb9HQ)   
+1. [FellowCountries - Resizing cells, Custom cells, Dynamic type, Part 1](https://youtu.be/mm2_oiDO4ho)   
+1. [FellowCountries - Resizing cells, Custom cells, Dynamic type, Part 2](https://youtu.be/mEwUE8n9hxo)   
 
 
 #### Github Videos
