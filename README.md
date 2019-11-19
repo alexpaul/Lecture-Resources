@@ -123,7 +123,7 @@
 1. [Big O Notation](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit2/Big-O-Notation.playground/Contents.swift)
 1. [Autolayout](https://github.com/alexpaul/Autolayout)  
 1. [App Life Cycle and UIControls](https://github.com/alexpaul/AppLifeCycle-UIControls)   
-1. [TableViews](https://github.com/alexpaul/TableViews)   
+1. [TableViews, basic built-in cell, table view sections, UITabBarController](https://github.com/alexpaul/TableViews)   
 1. [DatePicker, Date, Unwind Segue](https://github.com/alexpaul/DatePicker) 
 1. [FellowCountries - Resizing cells, Custom cells, Dynamic type](https://github.com/alexpaul/FellowCountries)   
 
