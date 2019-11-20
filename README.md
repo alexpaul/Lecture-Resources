@@ -126,7 +126,7 @@
 1. [TableViews, basic built-in cell, table view sections, UITabBarController](https://github.com/alexpaul/TableViews)   
 1. [DatePicker, Date, Unwind Segue](https://github.com/alexpaul/DatePicker) 
 1. [FellowCountries - Resizing cells, Custom cells, Dynamic type](https://github.com/alexpaul/FellowCountries)   
-1. [Custom cells using the Storyboard Scene - ZooAnimals](https://github.com/alexpaul/ZooAnimals)   
+1. [ZooAnimals - Custom cells using the Storyboard Scene](https://github.com/alexpaul/ZooAnimals)   
 
 
 #### Lecture Videos
@@ -152,9 +152,9 @@
 1. [DatePicker, Date, Unwind Segue, Part 3](https://youtu.be/aAxjJtQb9HQ)   
 1. [FellowCountries - Resizing cells, Custom cells, Dynamic type, Part 1](https://youtu.be/mm2_oiDO4ho)   
 1. [FellowCountries - Resizing cells, Custom cells, Dynamic type, Part 2](https://youtu.be/mEwUE8n9hxo) 
-1. [Custom cells using the Storyboard Scene, Part 1](https://youtu.be/h7zd-CkkboE)   
-1. [Custom cells using the Storyboard Scene, Part 2](https://youtu.be/qeuRwAwxf7g)   
-1. [Custom cells using the Storyboard Scene, Part 3](https://youtu.be/X42NxKZjuq8)   
+1. [ZooAnimals - Custom cells using the Storyboard Scene, Part 1](https://youtu.be/h7zd-CkkboE)   
+1. [ZooAnimals - Custom cells using the Storyboard Scene, Part 2](https://youtu.be/qeuRwAwxf7g)   
+1. [ZooAnimals - Custom cells using the Storyboard Scene, Part 3](https://youtu.be/X42NxKZjuq8)   
 
 
 #### Github Videos
