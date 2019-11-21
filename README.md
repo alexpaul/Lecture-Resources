@@ -160,7 +160,7 @@
 1. [Modifying (insert, delete, reorder) table view rows, Part 1](https://youtu.be/aJ76odkYIsk)   
 1. [Modifying (insert, delete, reorder) table view rows, Part 2](https://youtu.be/OeSXWkT-PFc)   
 
-## Supplementary Projects 
+#### Supplementary Projects 
 
 1. [UpdatingFont - using unwind segue to pass data back from a view controller and prepare(for segue: ) to pass data forward to a view controller](https://github.com/alexpaul/UpdatingFont)   
 
