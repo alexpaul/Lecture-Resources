@@ -1,4 +1,4 @@
-# Pursuit Core iOS
+# Lecture Resources (Projects, Videos)
 
 ## Unit 1
 
