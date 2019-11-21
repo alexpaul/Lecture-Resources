@@ -126,7 +126,8 @@
 1. [TableViews, basic built-in cell, table view sections, UITabBarController](https://github.com/alexpaul/TableViews)   
 1. [DatePicker, Date, Unwind Segue](https://github.com/alexpaul/DatePicker) 
 1. [FellowCountries - Resizing cells, Custom cells, Dynamic type](https://github.com/alexpaul/FellowCountries)   
-1. [ZooAnimals - Custom cells using the Storyboard Scene](https://github.com/alexpaul/ZooAnimals)   
+1. [ZooAnimals - Custom cells using the Storyboard Scene](https://github.com/alexpaul/ZooAnimals) 
+1. [Modifying (insert, delete, reorder) table view rows](https://github.com/alexpaul/Scheduler)   
 
 
 #### Lecture Videos
@@ -155,6 +156,10 @@
 1. [ZooAnimals - Custom cells using the Storyboard Scene, Part 1](https://youtu.be/h7zd-CkkboE)   
 1. [ZooAnimals - Custom cells using the Storyboard Scene, Part 2](https://youtu.be/qeuRwAwxf7g)   
 1. [ZooAnimals - Custom cells using the Storyboard Scene, Part 3](https://youtu.be/X42NxKZjuq8)   
+1. [Modifying (insert, delete, reorder) table view rows, Part 1](https://youtu.be/LuK8cL5rN1g)   
+1. [Modifying (insert, delete, reorder) table view rows, Part 2](https://youtu.be/aJ76odkYIsk)   
+1. [Modifying (insert, delete, reorder) table view rows, Part 3](https://youtu.be/OeSXWkT-PFc)   
+
 
 
 #### Github Videos
