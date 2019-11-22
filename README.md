@@ -183,6 +183,8 @@
 1. Multiple-MVC-Lab (segue and pass data between view controllers)  
 1. ZooAnimals 
 1. Game of Thrones 
+1. UpdatingFont - using unwind segue to update the cell label fonts of a previous view controller)
+1. GroceryList - editing table view rows in a sectioned table view
 
 
 #### Lab Assignment Overview Videos
