@@ -175,16 +175,16 @@
 
 1. Three Card Monte
 1. ColorGuessingGame 
-1. TextTwist
+1. TextTwist - UITextField, UITextFieldDelegate
 1. TicTacToe
 1. Autolayout-Lab
-1. CardGenerator
+1. CardGenerator - UIControls, e.g UIStepper, UISegmentedConrol
 1. TableView-Sections-Lab 
 1. Multiple-MVC-Lab (segue and pass data between view controllers)  
-1. ZooAnimals 
-1. Game of Thrones 
+1. ZooAnimals - custom cells, subclassing UITableViewCell, segue
+1. Game of Thrones - table view sections, segue
 1. UpdatingFont - using unwind segue to update the cell label fonts of a previous view controller)
-1. GroceryList - editing table view rows in a sectioned table view
+1. GroceryList - editing table view rows (insert, delete, reoder) in a sectioned table view
 
 
 #### Lab Assignment Overview Videos
