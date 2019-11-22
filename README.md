@@ -158,7 +158,8 @@
 1. [ZooAnimals - Custom cells using the Storyboard Scene, Part 3](https://youtu.be/X42NxKZjuq8)   
 1. [ZooAnimals - Custom cells using the Storyboard Scene, Part 4](https://youtu.be/LuK8cL5rN1g)   
 1. [Modifying (insert, delete, reorder) table view rows, Part 1](https://youtu.be/aJ76odkYIsk)   
-1. [Modifying (insert, delete, reorder) table view rows, Part 2](https://youtu.be/OeSXWkT-PFc)   
+1. [Modifying (insert, delete, reorder) table view rows, Part 2](https://youtu.be/OeSXWkT-PFc)  
+1. [Modifying (insert, delete, reorder) table view rows, Part 3](https://youtu.be/zax9E67kkPU)    
 
 #### Supplementary Projects 
 
