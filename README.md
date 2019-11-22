@@ -181,10 +181,10 @@
 1. CardGenerator - UIControls, e.g UIStepper, UISegmentedConrol
 1. TableView-Sections-Lab 
 1. Multiple-MVC-Lab (segue and pass data between view controllers)  
-1. ZooAnimals - custom cells, subclassing UITableViewCell, segue
-1. Game of Thrones - table view sections, segue
-1. UpdatingFont - using unwind segue to update the cell label fonts of a previous view controller)
-1. GroceryList - editing table view rows (insert, delete, reoder) in a sectioned table view
+1. ZooAnimals - custom cells, subclassing UITableViewCell, push segue
+1. Game of Thrones - table view sections, push segue
+1. UpdatingFont - using unwind segue to update the cell label fonts of a previous view controller), modal presentation segue
+1. GroceryList - editing table view rows (insert, delete, reoder) in a sectioned table view, modal presentation segue
 
 
 #### Lab Assignment Overview Videos
