@@ -197,7 +197,7 @@
 
 ## Unit 3
 <details> 
-  <summary>Networking in iOS - Parsing JSON, RESTFul Web APIs, URLSession</summary>
+  <summary>Networking in iOS - Parsing JSON, RESTFul Web APIs, Concurrency and GCD, URLSession</summary>
 
 #### In-class Xcode Projects and Playgrounds
 
