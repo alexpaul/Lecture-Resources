@@ -1,1 +1,1 @@
-# Unit 3 - Networking in iOS - Parsing JSON, Web APIs, URLSession
+# Unit 3 - Networking in iOS - Parsing JSON, RESTFul Web APIs, URLSession
