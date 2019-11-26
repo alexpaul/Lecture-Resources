@@ -201,6 +201,7 @@
 
 #### In-class Xcode Projects and Playgrounds
 
+1. [Introduction to the Internet and JSON Parsing in Playgrounds](https://github.com/alexpaul/Lecture-Resources/blob/master/Unit3/JSONParsing.playground/Contents.swift)   
 1. [TopStories - Parsing Local JSON from the App Bundle](https://github.com/alexpaul/TopStories)
 
 
