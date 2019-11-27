@@ -213,7 +213,7 @@
 1. [Parsing Local JSON from the App Bundle - Part 2](https://youtu.be/5tFV5TNsZPY)  
 1. [UISearchBar, UISearchBarDelegate - Part 1](https://youtu.be/h9DUXXIyjSA)  
 1. [UISearchBar, UISearchBarDelegate - Part 2](https://youtu.be/woDus88iOxg)  
-1. [Fetching a web resource, URLSession, Result, Escaping Closures, GCD](https://youtu.be/BwSEyT-bMyY)   
+1. [Fetching an Image with a given URL, URLSession, Result type, Escaping Closures, GCD](https://youtu.be/BwSEyT-bMyY)   
 
 
 </details> 
