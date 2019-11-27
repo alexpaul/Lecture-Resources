@@ -210,7 +210,10 @@
 1. [Introduction to the Internet and JSON Parsing in Playgrounds - Part 1](https://youtu.be/eHyWf8mYMbs)   
 1. [Introduction to the Internet and JSON Parsing in Playgrounds - Part 2](https://youtu.be/baFEobo86Ak)   
 1. [Parsing Local JSON from the App Bundle - Part 1](https://youtu.be/6_ecnDOel2Y)   
-1. [Parsing Local JSON from the App Bundle - Part 2](https://youtu.be/5tFV5TNsZPY)   
+1. [Parsing Local JSON from the App Bundle - Part 2](https://youtu.be/5tFV5TNsZPY)  
+1. [UISearchBar, UISearchBarDelegate - Part 1](https://youtu.be/h9DUXXIyjSA)  
+1. [UISearchBar, UISearchBarDelegate - Part 2](https://youtu.be/woDus88iOxg)  
+1. [Fetching a web resource, URLSession, Result, Escaping Closures, GCD](https://youtu.be/BwSEyT-bMyY)   
 
 
 </details> 
