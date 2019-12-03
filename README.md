@@ -221,7 +221,12 @@
 1. [Test Driven Development (TDD)](https://youtu.be/eRdt-RMNpcY)   
 1. [TDD and Parsing a Heterogeneous JSON data type](https://youtu.be/BjQwvBTGG-g)   
 
+#### Labs 
 
+1. Parsing JSON - Weather, Color, Random User API
+1. SongsSearchBar
+1. Introduction to Unit Testing Lab - Jokes API, Star Wars API, Trivia API
+1. StocksPeople 
 
 </details> 
 
