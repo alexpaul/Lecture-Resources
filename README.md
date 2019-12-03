@@ -218,7 +218,8 @@
 1. [Fetching an Image with a given URL, URLSession, Result type, Escaping Closures, GCD](https://youtu.be/BwSEyT-bMyY)   
 1. [Introduction to Unit Testing - Part 1](https://youtu.be/iRYa_Md-Ofg)   
 1. [Introduction to Unit Testing - Part 2](https://youtu.be/QvrZDclVUmU)   
-1. [Test Driven Development TDD - Part 1](https://youtu.be/eRdt-RMNpcY)   
+1. [Test Driven Development (TDD)](https://youtu.be/eRdt-RMNpcY)   
+1. [TDD and Parsing a Heterogeneous JSON data type](https://youtu.be/BjQwvBTGG-g)   
 
 
 
