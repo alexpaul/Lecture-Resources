@@ -203,6 +203,8 @@
 
 1. [Introduction to the Internet and JSON Parsing in Playgrounds](https://github.com/alexpaul/Lecture-Resources/blob/master/Unit3/JSONParsing.playground/Contents.swift)   
 1. [TopStories - Parsing Local JSON from the App Bundle](https://github.com/alexpaul/TopStories)
+1. [ChallengeCalculator - Introduction to Unit Testing, XCTest](https://github.com/alexpaul/ChallengeCalculator)  
+1. [RandomUserApp - Test-driven development (TDD)](https://github.com/alexpaul/RandomUserApp)   
 
 
 #### Lecture Videos
@@ -214,6 +216,10 @@
 1. [UISearchBar, UISearchBarDelegate - Part 1](https://youtu.be/h9DUXXIyjSA)  
 1. [UISearchBar, UISearchBarDelegate - Part 2](https://youtu.be/woDus88iOxg)  
 1. [Fetching an Image with a given URL, URLSession, Result type, Escaping Closures, GCD](https://youtu.be/BwSEyT-bMyY)   
+1. [Introduction to Unit Testing - Part 1](https://youtu.be/iRYa_Md-Ofg)   
+1. [Introduction to Unit Testing - Part 2](https://youtu.be/QvrZDclVUmU)   
+1. [Test Driven Development TDD - Part 1](https://youtu.be/eRdt-RMNpcY)   
+
 
 
 </details> 
