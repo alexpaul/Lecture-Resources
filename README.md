@@ -204,7 +204,8 @@
 1. [Introduction to the Internet and JSON Parsing in Playgrounds](https://github.com/alexpaul/Lecture-Resources/blob/master/Unit3/JSONParsing.playground/Contents.swift)   
 1. [TopStories - Parsing Local JSON from the App Bundle](https://github.com/alexpaul/TopStories)
 1. [ChallengeCalculator - Introduction to Unit Testing, XCTest](https://github.com/alexpaul/ChallengeCalculator)  
-1. [RandomUserApp - Test-driven development (TDD)](https://github.com/alexpaul/RandomUserApp)   
+1. [RandomUserApp - Test-driven development (TDD)](https://github.com/alexpaul/RandomUserApp)  
+1. [Using URLSession to fetch Web Data](https://github.com/alexpaul/Jokes)   
 
 
 #### Lecture Videos
@@ -219,7 +220,9 @@
 1. [Introduction to Unit Testing - Part 1](https://youtu.be/iRYa_Md-Ofg)   
 1. [Introduction to Unit Testing - Part 2](https://youtu.be/QvrZDclVUmU)   
 1. [Test Driven Development (TDD)](https://youtu.be/eRdt-RMNpcY)   
-1. [TDD and Parsing a Heterogeneous JSON data type](https://youtu.be/BjQwvBTGG-g)   
+1. [TDD and Parsing a Heterogeneous JSON data type](https://youtu.be/BjQwvBTGG-g)  
+1. [Using URLSession to fetch Web Data](https://youtu.be/cFlm0l4gBIU)   
+
 
 #### Labs 
 
