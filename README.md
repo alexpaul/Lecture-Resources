@@ -206,6 +206,7 @@
 1. [ChallengeCalculator - Introduction to Unit Testing, XCTest](https://github.com/alexpaul/ChallengeCalculator)  
 1. [RandomUserApp - Test-driven development (TDD)](https://github.com/alexpaul/RandomUserApp)  
 1. [Using URLSession to fetch Web Data](https://github.com/alexpaul/Jokes)   
+1. [Introduction to Concurrency and Grand Central Dispatch](https://github.com/alexpaul/Concurrency)  
 
 
 #### Lecture Videos
@@ -222,6 +223,7 @@
 1. [Test Driven Development (TDD)](https://youtu.be/eRdt-RMNpcY)   
 1. [TDD and Parsing a Heterogeneous JSON data type](https://youtu.be/BjQwvBTGG-g)  
 1. [Using URLSession to fetch Web Data](https://youtu.be/cFlm0l4gBIU)   
+1. [Introduction to Concurrency and Grand Central Dispatch](https://youtu.be/Qy40OXUMtmc)   
 
 
 #### Labs 
@@ -230,6 +232,8 @@
 1. SongsSearchBar
 1. Introduction to Unit Testing Lab - Jokes API, Star Wars API, Trivia API
 1. StocksPeople 
+1. Concurrency 
+1. Image and Error Handling
 
 </details> 
 
