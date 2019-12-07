@@ -236,8 +236,8 @@
 1. SongsSearchBar
 1. Introduction to Unit Testing Lab - Jokes API, Star Wars API, Trivia API
 1. StocksPeople 
-1. Concurrency 
-1. Image and Error Handling
+1. Concurrency - Country list, flag, Exchange rates, Weather
+1. Image and Error Handling - Comic viewer, Pokemon cards, Random user
 
 </details> 
 
