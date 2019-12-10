@@ -207,7 +207,9 @@
 1. [RandomUserApp - Test-driven development (TDD)](https://github.com/alexpaul/RandomUserApp)  
 1. [Using URLSession to fetch Web Data](https://github.com/alexpaul/Jokes)   
 1. [Introduction to Concurrency and Grand Central Dispatch](https://github.com/alexpaul/Concurrency) 
-1. [URLSession Wrapper - NetworkHelper](https://github.com/alexpaul/NetworkHelper)   
+1. [URLSession Wrapper - NetworkHelper](https://github.com/alexpaul/NetworkHelper)  
+1. [ARC - Memory Management](https://github.com/alexpaul/ARC-Memory-Management)  
+1. [AstronomyPhotos - Image handling in cells](https://github.com/alexpaul/AstronomyPhotos)   
 
 
 #### Lecture Videos
@@ -227,7 +229,8 @@
 1. [Introduction to Concurrency and Grand Central Dispatch](https://youtu.be/Qy40OXUMtmc)   
 1. [URLSession Wrapper - NetworkHelper - Part 1](https://youtu.be/F4VZdjWQl7w)   
 1. [URLSession Wrapper - NetworkHelper - Part 2](https://youtu.be/QvrZDclVUmU)   
-
+1. [ARC - Memory Management](https://youtu.be/Kk8eHndccUk)  
+1. [Image handling in cells - Part 1](https://youtu.be/5PNW4iuzMf8) 
 
 
 #### Labs 
