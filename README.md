@@ -209,7 +209,8 @@
 1. [Introduction to Concurrency and Grand Central Dispatch](https://github.com/alexpaul/Concurrency) 
 1. [URLSession Wrapper - NetworkHelper](https://github.com/alexpaul/NetworkHelper)  
 1. [ARC - Memory Management](https://github.com/alexpaul/ARC-Memory-Management)  
-1. [AstronomyPhotos - Image handling in cells](https://github.com/alexpaul/AstronomyPhotos)   
+1. [AstronomyPhotos - Image handling in cells](https://github.com/alexpaul/AstronomyPhotos)  
+1. [RecipeSearch - API Authentication using API Keys](https://github.com/alexpaul/RecipeSearch-Using-Basic-Auth)
 
 
 #### Lecture Videos
@@ -231,6 +232,10 @@
 1. [URLSession Wrapper - NetworkHelper - Part 2](https://youtu.be/QvrZDclVUmU)   
 1. [ARC - Memory Management](https://youtu.be/Kk8eHndccUk)  
 1. [Image handling in cells - Part 1](https://youtu.be/5PNW4iuzMf8) 
+1. [Image handling in cells - Part 2](https://youtu.be/7FG9LTeKC18) 
+1. [API Authentication using API Keys - Part 1](https://youtu.be/SLTzuszHKWk)
+1. [API Authentication using API Keys - Part 2](https://youtu.be/ddW4NVOSyk8)
+
 
 
 #### Labs 
@@ -241,6 +246,7 @@
 1. StocksPeople 
 1. Concurrency - Country list, flag, Exchange rates, Weather
 1. Image and Error Handling - Comic viewer, Pokemon cards, Random user
+1. Comic 
 
 </details> 
 
