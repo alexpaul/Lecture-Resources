@@ -235,7 +235,7 @@
 1. [Image handling in cells - Part 2](https://youtu.be/7FG9LTeKC18) 
 1. [API Authentication using API Keys - Part 1](https://youtu.be/SLTzuszHKWk)
 1. [API Authentication using API Keys - Part 2](https://youtu.be/ddW4NVOSyk8)
-
+1. [API Authentication using API Keys - Part 3](https://youtu.be/jtqgLYjknJc)  
 
 
 #### Labs 
