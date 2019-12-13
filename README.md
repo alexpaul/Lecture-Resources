@@ -211,7 +211,7 @@
 1. [ARC - Memory Management](https://github.com/alexpaul/ARC-Memory-Management)  
 1. [AstronomyPhotos - Image handling in cells](https://github.com/alexpaul/AstronomyPhotos)  
 1. [RecipeSearch - API Authentication using API Keys](https://github.com/alexpaul/RecipeSearch-Using-Basic-Auth)
-1. [Making POST Requests (Uploading Data to a Web API)](https://github.com/alexpaul/LabQuestions)   
+1. [LabQuestions - Making POST Requests (Uploading Data to a Web API)](https://github.com/alexpaul/LabQuestions)   
 
 
 #### Lecture Videos
