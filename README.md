@@ -251,6 +251,7 @@
 1. Concurrency - Country list, flag, Exchange rates, Weather
 1. Image and Error Handling - Comic viewer, Pokemon cards, Random user
 1. Comic 
+1. Making GET requests - Shows, Episodes
 
 </details> 
 
