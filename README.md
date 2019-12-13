@@ -211,6 +211,7 @@
 1. [ARC - Memory Management](https://github.com/alexpaul/ARC-Memory-Management)  
 1. [AstronomyPhotos - Image handling in cells](https://github.com/alexpaul/AstronomyPhotos)  
 1. [RecipeSearch - API Authentication using API Keys](https://github.com/alexpaul/RecipeSearch-Using-Basic-Auth)
+1. [Making POST Requests (Uploading Data to a Web API)](https://github.com/alexpaul/LabQuestions)   
 
 
 #### Lecture Videos
@@ -236,6 +237,9 @@
 1. [API Authentication using API Keys - Part 1](https://youtu.be/SLTzuszHKWk)
 1. [API Authentication using API Keys - Part 2](https://youtu.be/ddW4NVOSyk8)
 1. [API Authentication using API Keys - Part 3](https://youtu.be/jtqgLYjknJc)  
+1. [API Authentication using API Keys - Part 4](https://youtu.be/vshVRwVqWWk)  
+1. [Making POST Requests (Uploading Data to a Web API) - Part 1](https://youtu.be/jc3di3HihQk)    
+
 
 
 #### Labs 
