@@ -238,7 +238,10 @@
 1. [API Authentication using API Keys - Part 2](https://youtu.be/ddW4NVOSyk8)
 1. [API Authentication using API Keys - Part 3](https://youtu.be/jtqgLYjknJc)  
 1. [API Authentication using API Keys - Part 4](https://youtu.be/vshVRwVqWWk)  
-1. [Making POST Requests (Uploading Data to a Web API) - Part 1](https://youtu.be/jc3di3HihQk)    
+1. [Making POST Requests (Uploading Data to a Web API) - Part 1](https://youtu.be/jc3di3HihQk)  
+1. [Making POST Requests (Uploading Data to a Web API) - Part 2](https://youtu.be/-k6rHv7Icoo)
+1. [Making POST Requests (Uploading Data to a Web API) - Part 3](https://youtu.be/p7Gna9-ZmR4)
+1. [Making POST Requests (Uploading Data to a Web API) - Part 4](https://youtu.be/n5V8n_K_nUk)
 
 
 
