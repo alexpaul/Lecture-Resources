@@ -252,6 +252,7 @@
 1. Image and Error Handling - Comic viewer, Pokemon cards, Random user
 1. Comic 
 1. Making GET requests - Shows, Episodes
+1. Airtable - Project tracker Projects
 
 </details> 
 
