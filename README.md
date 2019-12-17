@@ -242,6 +242,11 @@
 1. [Making POST Requests (Uploading Data to a Web API) - Part 2](https://youtu.be/-k6rHv7Icoo)
 1. [Making POST Requests (Uploading Data to a Web API) - Part 3](https://youtu.be/p7Gna9-ZmR4)
 1. [Making POST Requests (Uploading Data to a Web API) - Part 4](https://youtu.be/n5V8n_K_nUk)
+1. [Making POST Requests (Uploading Data to a Web API) - Part 5](https://youtu.be/753z1SnlKeM)
+1. [Making POST Requests (Uploading Data to a Web API) - Part 6](https://youtu.be/OTg3kSyZ34o)
+1. [Making POST Requests (Uploading Data to a Web API) - Part 7](https://youtu.be/eciU06eTQrM)
+1. [Making POST Requests (Uploading Data to a Web API) - Part 8](https://youtu.be/kzdIf9GIAik)
+
 
 
 
