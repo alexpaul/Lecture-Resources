@@ -261,6 +261,7 @@
 1. Comic 
 1. Making GET requests - Shows, Episodes
 1. Airtable - Project tracker Projects
+1. Podcast search and favorites
 
 </details> 
 
