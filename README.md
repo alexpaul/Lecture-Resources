@@ -283,7 +283,7 @@
   <summary>Data Persistence, Collection Views, UIImagePickerViewController, Stacks, Generics, Queues, Recursion, Animation</summary>
   
 #### In-class Xcode Projects and Playgrounds
-1. [UserDefaults-Demo](https://github.com/alexpaul/UserDefaults-Demo)
+1. [UserDefaults-Demo, UITableViewController](https://github.com/alexpaul/UserDefaults-Demo)
 1. [CollectionView-RandomDogs](https://github.com/alexpaul/CollectionView-RandomDogs)
 
 #### Lecture Videos
