@@ -265,6 +265,19 @@
 
 </details> 
 
+## Post Unit 3 Review Week Content
+<details> 
+  <summary>Making README's and Gifs, Working with .gitignore, Custom table view cells using .xibs, Swift Package Manager, UIScrollView, SFSafariViewController</summary> 
+  
+#### Lecture Videos
+1. [Making README's and Gifs](https://youtu.be/4dEnCEjY9a8)
+1. [Working with .gitignore](https://youtu.be/eg3EjLLJyPI)
+1. [Custom table view cells using xibs](https://youtu.be/akXOYV0_lFw)
+1. [Using Swift Packages, UIScrollView, SFSafariViewController](https://youtu.be/QhQkTbtG1-A)
+
+  
+</details> 
+
 ## Unit 4
 <details> 
   <summary>Data Persistence, Collection Views, UIImagePickerViewController, Stacks, Generics, Queues, Recursion, Animation</summary>
