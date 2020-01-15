@@ -265,4 +265,25 @@
 
 </details> 
 
+## Unit 4
+<details> 
+  <summary>Data Persistence, Collection Views, UIImagePickerViewController, Stacks, Generics, Queues, Recursion, Animation</summary>
+  
+#### In-class Xcode Projects and Playgrounds
+1. [UserDefaults-Demo](https://github.com/alexpaul/UserDefaults-Demo)
+1. [CollectionView-RandomDogs](https://github.com/alexpaul/CollectionView-RandomDogs)
+
+#### Lecture Videos
+1. [Persistence with UserDefaults, Part 1](https://youtu.be/QQ_vN3mcb4Y)
+1. [Persistence with UserDefaults, Part 2](https://youtu.be/BzumxgCZ0As)
+1. [UICollectionView using UICollectionViewFlowLayout, Part 1](https://youtu.be/AdPBtuV0W8o)
+1. [UICollectionView using UICollectionViewFlowLayout, Part 2](https://youtu.be/0a27SpbbpSU)
+1. [UICollectionView using UICollectionViewFlowLayout, Part 3](https://youtu.be/QxFVRNR-ybY)
+
+
+  
+  
+</datails> 
+
+
 
