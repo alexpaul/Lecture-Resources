@@ -285,6 +285,7 @@
 #### In-class Xcode Projects and Playgrounds
 1. [UserDefaults-Demo, UITableViewController](https://github.com/alexpaul/UserDefaults-Demo)
 1. [CollectionView-RandomDogs](https://github.com/alexpaul/CollectionView-RandomDogs)
+1. [Generics, In-Out Functions, Stacks](https://github.com/alexpaul/Lecture-Resources/blob/master/Unit4/Generics-inout-Functions-Stacks.playground/Contents.swift)
 
 #### Lecture Videos
 1. [Persistence with UserDefaults, Part 1](https://youtu.be/QQ_vN3mcb4Y)
@@ -292,8 +293,7 @@
 1. [UICollectionView using UICollectionViewFlowLayout, Part 1](https://youtu.be/AdPBtuV0W8o)
 1. [UICollectionView using UICollectionViewFlowLayout, Part 2](https://youtu.be/0a27SpbbpSU)
 1. [UICollectionView using UICollectionViewFlowLayout, Part 3](https://youtu.be/QxFVRNR-ybY)
-
-
+1. [Generics, In-Out Functions, Stacks](https://youtu.be/UJNezGgD0pc)
   
   
 </datails> 
