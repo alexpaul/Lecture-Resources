@@ -296,7 +296,7 @@
 1. [Generics, In-Out Functions, Stacks](https://youtu.be/UJNezGgD0pc)
   
   
-</datails> 
+</details> 
 
 
 ## Data Structures and Algorithms
