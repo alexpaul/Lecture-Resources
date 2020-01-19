@@ -313,7 +313,7 @@
 1. [Enums](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Questions-Review-Enums.playground/Contents.swift) 
 1. [Big O Notation](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit2/Big-O-Notation.playground/Contents.swift)
 1. [Generics, In-Out Functions, Stacks](https://github.com/alexpaul/Lecture-Resources/blob/master/Unit4/Generics-inout-Functions-Stacks.playground/Contents.swift)
-1. [FileManager and Docuements Directory](https://github.com/alexpaul/Scheduler-Persistence)
+1. [FileManager and Docuements Directory](https://github.com/alexpaul/Scheduler-Persistence)   
 
 #### Lecture Videos
 
@@ -325,10 +325,10 @@
 1. [Closures and implementing custom map](https://youtu.be/tvxw1kC3750)   
 1. [Enums](https://youtu.be/tiDCGx3nm-U)
 1. [Big O Notation](https://youtu.be/b9AvLEFihFw)  
-1. [Generics, In-Out Functions, Stacks](https://youtu.be/UJNezGgD0pc)
-1. [FileManager and Documents Directory, Part 1](https://youtu.be/p4exolZztJc)
-1. [FileManager and Documents Directory, Part 2](https://youtu.be/CVTBYRrVd6g)
-1. [FileManager and Documents Directory, Part 3](https://youtu.be/qE-baS-7C3I)
+1. [Generics, In-Out Functions, Stacks](https://youtu.be/UJNezGgD0pc)  
+1. [FileManager and Documents Directory, Part 1](https://youtu.be/p4exolZztJc)  
+1. [FileManager and Documents Directory, Part 2](https://youtu.be/CVTBYRrVd6g)  
+1. [FileManager and Documents Directory, Part 3](https://youtu.be/qE-baS-7C3I)  
 
 
 </details> 
