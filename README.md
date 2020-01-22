@@ -286,7 +286,8 @@
 1. [UserDefaults-Demo, UITableViewController](https://github.com/alexpaul/UserDefaults-Demo)
 1. [CollectionView-RandomDogs](https://github.com/alexpaul/CollectionView-RandomDogs)
 1. [Generics, In-Out Functions, Stacks](https://github.com/alexpaul/Lecture-Resources/blob/master/Unit4/Generics-inout-Functions-Stacks.playground/Contents.swift)
-1. [FileManager and Docuements Directory](https://github.com/alexpaul/Scheduler-Persistence)   
+1. [FileManager and Docuements Directory](https://github.com/alexpaul/Scheduler-Persistence)  
+1. [UIImagePickerController, Custom Delegation and Persistence](https://github.com/alexpaul/ImagePicker)
 
 
 #### Lecture Videos
@@ -299,7 +300,13 @@
 1. [FileManager and Documents Directory, Part 1](https://youtu.be/p4exolZztJc)  
 1. [FileManager and Documents Directory, Part 2](https://youtu.be/CVTBYRrVd6g)  
 1. [FileManager and Documents Directory, Part 3](https://youtu.be/qE-baS-7C3I)  
-  
+1. [UIImagePickerController, Custom Delegation and Persistence Part 1](https://youtu.be/aId35qUcUmw)
+1. [UIImagePickerController, Custom Delegation and Persistence Part 2](https://youtu.be/G2L8VtDNF70)
+1. [UIImagePickerController, Custom Delegation and Persistence Part 3](https://youtu.be/HkJg2sOBh8Y)
+1. [UIImagePickerController, Custom Delegation and Persistence Part 4](https://youtu.be/u55AqHgp6h0)
+1. [UIImagePickerController, Custom Delegation and Persistence Part 5](https://youtu.be/sLHMET20eJ4)
+1. [UIImagePickerController, Custom Delegation and Persistence Part 6](https://youtu.be/nn1ZZwBB0yc)
+
   
 </details> 
 
