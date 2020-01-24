@@ -288,6 +288,7 @@
 1. [Generics, In-Out Functions, Stacks](https://github.com/alexpaul/Lecture-Resources/blob/master/Unit4/Generics-inout-Functions-Stacks.playground/Contents.swift)
 1. [FileManager and Docuements Directory](https://github.com/alexpaul/Scheduler-Persistence)  
 1. [UIImagePickerController, Custom Delegation and Persistence](https://github.com/alexpaul/ImagePicker)
+1. [Recursion](https://github.com/alexpaul/Recursion)
 1. [Custom-Delegation-UITabBarControlller](https://github.com/alexpaul/Scheduler-Custom-Delegation-Tab-Controller)
 
 
@@ -330,6 +331,8 @@
 1. [Enums](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit1/Questions-Review-Enums.playground/Contents.swift) 
 1. [Big O Notation](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit2/Big-O-Notation.playground/Contents.swift)
 1. [Generics, In-Out Functions, Stacks](https://github.com/alexpaul/Lecture-Resources/blob/master/Unit4/Generics-inout-Functions-Stacks.playground/Contents.swift)
+1. [Recursion](https://github.com/alexpaul/Recursion)
+
 
 #### Lecture Videos
 
@@ -342,6 +345,7 @@
 1. [Enums](https://youtu.be/tiDCGx3nm-U)
 1. [Big O Notation](https://youtu.be/b9AvLEFihFw)  
 1. [Generics, In-Out Functions, Stacks](https://youtu.be/UJNezGgD0pc)  
-
+1. [Recursion, Part 1](https://youtu.be/tJSaP4NSK-8)
+1. [Recursion, Part 2](https://youtu.be/-JVobl-6c8k)
 
 </details> 
