@@ -288,6 +288,7 @@
 1. [Generics, In-Out Functions, Stacks](https://github.com/alexpaul/Lecture-Resources/blob/master/Unit4/Generics-inout-Functions-Stacks.playground/Contents.swift)
 1. [FileManager and Docuements Directory](https://github.com/alexpaul/Scheduler-Persistence)  
 1. [UIImagePickerController, Custom Delegation and Persistence](https://github.com/alexpaul/ImagePicker)
+1. [Custom-Delegation-UITabBarControlller](https://github.com/alexpaul/Scheduler-Custom-Delegation-Tab-Controller)
 
 
 #### Lecture Videos
@@ -306,6 +307,10 @@
 1. [UIImagePickerController, Custom Delegation and Persistence Part 4](https://youtu.be/u55AqHgp6h0)
 1. [UIImagePickerController, Custom Delegation and Persistence Part 5](https://youtu.be/sLHMET20eJ4)
 1. [UIImagePickerController, Custom Delegation and Persistence Part 6](https://youtu.be/nn1ZZwBB0yc)
+1. [Recursion, Part 1](https://youtu.be/tJSaP4NSK-8)
+1. [Recursion, Part 2](https://youtu.be/-JVobl-6c8k)
+1. [Using an enum to manage the edit state of a view controller](https://youtu.be/bPpVvBROKb0)
+
 
   
 </details> 
