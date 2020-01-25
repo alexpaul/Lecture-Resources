@@ -301,7 +301,7 @@
 1. [Generics, In-Out Functions, Stacks](https://youtu.be/UJNezGgD0pc)
 1. [Scheduler, Version 2 - FileManager and Documents Directory, Part 1](https://youtu.be/p4exolZztJc)  
 1. [Scheduler, Version 2 - FileManager and Documents Directory, Part 2](https://youtu.be/CVTBYRrVd6g)  
-1. [Scheduler, Version 2 2 - FileManager and Documents Directory, Part 3](https://youtu.be/qE-baS-7C3I)  
+1. [Scheduler, Version 2 - FileManager and Documents Directory, Part 3](https://youtu.be/qE-baS-7C3I)  
 1. [ImagePicker - UIImagePickerController, Custom Delegation and Persistence Part 1](https://youtu.be/aId35qUcUmw)
 1. [ImagePicker - UIImagePickerController, Custom Delegation and Persistence Part 2](https://youtu.be/G2L8VtDNF70)
 1. [ImagePicker - UIImagePickerController, Custom Delegation and Persistence Part 3](https://youtu.be/HkJg2sOBh8Y)
