@@ -354,3 +354,16 @@
 1. [Recursion, Part 3](https://youtu.be/lhwNwSXH_Yw)
 
 </details> 
+
+
+## Cheat sheets
+<details> 
+  <summary>Cheat sheets for delegation, git, etc</summary>
+
+1. [Custom delegation flow](https://gist.github.com/alexpaul/978c561846b0c619ba7b01b1cfb0d9e7)
+1. [Git branching](https://gist.github.com/alexpaul/336a78487414f70b8d8c5e1e888f9278)
+1. [Dependency Injection](https://gist.github.com/alexpaul/19731a42ea13467beab8f1c641ee2185)
+1. [Programmatically settting up the SceneDelegate](https://gist.github.com/alexpaul/875d1c8ce45a5f536d0c81087285f4d8)
+
+</details> 
+
