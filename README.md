@@ -127,7 +127,7 @@
 1. [DatePicker, Date, Unwind Segue](https://github.com/alexpaul/DatePicker) 
 1. [FellowCountries - Resizing cells, Custom cells, Dynamic type](https://github.com/alexpaul/FellowCountries)   
 1. [ZooAnimals - Custom cells using the Storyboard Scene](https://github.com/alexpaul/ZooAnimals) 
-1. [Modifying (insert, delete, reorder) table view rows](https://github.com/alexpaul/Scheduler)   
+1. [Scheduler Version 1 - Modifying (insert, delete, reorder) table view rows](https://github.com/alexpaul/Scheduler)   
 
 
 #### Lecture Videos
@@ -286,10 +286,10 @@
 1. [UserDefaults-Demo, UITableViewController](https://github.com/alexpaul/UserDefaults-Demo)
 1. [CollectionView-RandomDogs](https://github.com/alexpaul/CollectionView-RandomDogs)
 1. [Generics, In-Out Functions, Stacks](https://github.com/alexpaul/Lecture-Resources/blob/master/Unit4/Generics-inout-Functions-Stacks.playground/Contents.swift)
-1. [FileManager and Docuements Directory](https://github.com/alexpaul/Scheduler-Persistence)  
+1. [Scheduler Version 2 - FileManager and Docuements Directory](https://github.com/alexpaul/Scheduler-Persistence)  
 1. [UIImagePickerController, Custom Delegation and Persistence](https://github.com/alexpaul/ImagePicker)
 1. [Recursion](https://github.com/alexpaul/Recursion)
-1. [Custom-Delegation-UITabBarControlller](https://github.com/alexpaul/Scheduler-Custom-Delegation-Tab-Controller)
+1. [Scheudler Version 3 - Custom-Delegation-UITabBarControlller](https://github.com/alexpaul/Scheduler-Custom-Delegation-Tab-Controller)
 
 
 #### Lecture Videos
