@@ -290,6 +290,11 @@
 1. [UIImagePickerController, Custom Delegation and Persistence](https://github.com/alexpaul/ImagePicker)
 1. [Recursion](https://github.com/alexpaul/Recursion)
 1. [Scheudler Version 3 - Custom-Delegation-UITabBarControlller](https://github.com/alexpaul/Scheduler-Custom-Delegation-Tab-Controller)
+1. [Programmatic UI](https://github.com/alexpaul/Programmatic-UI)
+1. [Programmatic UI, Xibs and Storyboards](https://github.com/alexpaul/Programmatic-UI-Xibs-Storyboards)
+1. [LinkedList](https://github.com/alexpaul/Lecture-Resources/blob/master/Unit4/LinkedList.playground/Contents.swift)
+1. [UIKit Animations](https://github.com/alexpaul/UIKit-Animations)
+
 
 
 #### Lecture Videos
@@ -315,7 +320,15 @@
 1. [Scheduler, Version 3 - Subclass UITabBarController Inject its view controllers with dependencies](https://youtu.be/Boq7XDI6kTc)
 1. [Scheduler, Version 3 - Using custom delegation with UITabBarController](https://youtu.be/JIv1IX6hwic)
 1. [Recursion, Part 3](https://youtu.be/lhwNwSXH_Yw)
-
+1. [Programmatic UI, Part 1](https://youtu.be/NVUZlh-UH90)
+1. [Programmatic UI, Part 2](https://youtu.be/YWuIn-iLjzY)
+1. [Programmatic UI, Part 3](https://youtu.be/-u5Sr2hM6es)
+1. [Programmatic UI, Part 4](https://youtu.be/tQhj-GzP4jM)
+1. [Programmatic UI, Xibs, Storyboards](https://youtu.be/et9-FMFSF-4)
+1. [Linked List, Part 1](https://youtu.be/lEN7OfQNdX4)
+1. [Linked List, Part 2](https://youtu.be/hxH41LdYZ5E)
+1. [UIKit Animations, Part 1](https://youtu.be/6-ifJBROHXg)
+1. [UIKit Animations, Part 2](https://youtu.be/djjT0M70zcU)
 
   
 </details> 
@@ -336,6 +349,7 @@
 1. [Big O Notation](https://github.com/alexpaul/Pursuit-Core-iOS/blob/master/Unit2/Big-O-Notation.playground/Contents.swift)
 1. [Generics, In-Out Functions, Stacks](https://github.com/alexpaul/Lecture-Resources/blob/master/Unit4/Generics-inout-Functions-Stacks.playground/Contents.swift)
 1. [Recursion](https://github.com/alexpaul/Recursion)
+1. [LinkedList](https://github.com/alexpaul/Lecture-Resources/blob/master/Unit4/LinkedList.playground/Contents.swift)
 
 
 #### Lecture Videos
@@ -352,6 +366,8 @@
 1. [Recursion, Part 1](https://youtu.be/tJSaP4NSK-8)
 1. [Recursion, Part 2](https://youtu.be/-JVobl-6c8k)
 1. [Recursion, Part 3](https://youtu.be/lhwNwSXH_Yw)
+1. [Linked List, Part 1](https://youtu.be/lEN7OfQNdX4)
+1. [Linked List, Part 2](https://youtu.be/hxH41LdYZ5E)
 
 </details> 
 
