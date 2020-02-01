@@ -92,6 +92,15 @@ print(cohorts.peek) // 6.3
 
 cohorts.pop()
 cohorts.pop()
+cohorts.pop()
+cohorts.pop()
+cohorts.pop()
+cohorts.pop()
+cohorts.pop()
+cohorts.pop()
+cohorts.pop()
+cohorts.pop()
+
 
 print(cohorts.peek) // 4.0
 
