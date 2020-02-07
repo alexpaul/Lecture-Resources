@@ -294,7 +294,10 @@
 1. [Programmatic UI, Xibs and Storyboards](https://github.com/alexpaul/Programmatic-UI-Xibs-Storyboards)
 1. [LinkedList](https://github.com/alexpaul/Lecture-Resources/blob/master/Unit4/LinkedList.playground/Contents.swift)
 1. [UIKit Animations](https://github.com/alexpaul/UIKit-Animations)
-
+1. [UIScrollView, UIImageView, Zooming](https://github.com/alexpaul/UIScrollView-UIImage-Zooming)
+1. [UIKit Gestures](https://github.com/alexpaul/UIKit-Gestures)
+1. [Keyboard Handling](https://github.com/alexpaul/KeyboardHandling)
+1. [NYTTopStories](https://github.com/alexpaul/NYTTopStories)
 
 
 #### Lecture Videos
@@ -329,6 +332,15 @@
 1. [Linked List, Part 2](https://youtu.be/hxH41LdYZ5E)
 1. [UIKit Animations, Part 1](https://youtu.be/6-ifJBROHXg)
 1. [UIKit Animations, Part 2](https://youtu.be/djjT0M70zcU)
+1. [UIScrollView, UIImageView, Zooming](https://youtu.be/zBUIYTHhFyA)
+1. [UIKit Gestures, Part 1](https://youtu.be/kUKdbYOOKrk)
+1. [Keyboard Handling, Part 1](https://youtu.be/eY9AElLBOQM)
+1. [Keyboard Handling, Part 2](https://youtu.be/KsSZaTt7U7k)
+1. [UIKit Animations, Part 3](https://youtu.be/mgnblgy6nvQ)
+1. [UIKit Animations, Part 4](https://youtu.be/iB3El0iMh6w)
+1. [UIKit Animations, Part 5](https://youtu.be/ClHV1Qqoa3Q)
+1. [NYTTopStories, Part 1](https://youtu.be/2emgRG2Z78A)
+1. [NYTTopStories, Part 2](https://youtu.be/dHOEz2lzOjY)
 
   
 </details> 
