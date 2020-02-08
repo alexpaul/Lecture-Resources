@@ -341,6 +341,10 @@
 1. [UIKit Animations, Part 5](https://youtu.be/ClHV1Qqoa3Q)
 1. [NYTTopStories, Part 1](https://youtu.be/2emgRG2Z78A)
 1. [NYTTopStories, Part 2](https://youtu.be/dHOEz2lzOjY)
+1. [NYTTopStories, Part 3](https://youtu.be/eIpF8LOhgyE)
+1. [NYTTopStories, Part 4](https://youtu.be/B03F7dm0MMQ)
+1. [NYTTopStories, Part 5](https://youtu.be/VtD7WW6uAEQ)
+
 
   
 </details> 
