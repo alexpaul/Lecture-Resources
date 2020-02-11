@@ -344,8 +344,12 @@
 1. [NYTTopStories, Part 3](https://youtu.be/eIpF8LOhgyE)
 1. [NYTTopStories, Part 4](https://youtu.be/B03F7dm0MMQ)
 1. [NYTTopStories, Part 5](https://youtu.be/VtD7WW6uAEQ)
-
-
+1. [NYTTopStories, Part 6](https://youtu.be/mYMIvHWdToU)
+1. [NYTTopStories, Part 7](https://youtu.be/W3fs-RqdEu0)
+1. [NYTTopStories, Part 8](https://youtu.be/PCHZhPTCCkU)
+1. [NYTTopStories, Part 9](https://youtu.be/xgR8O5vOgAY)
+1. [NYTTopStories, Part 10](https://youtu.be/KdSuYpOehyw)
+1. [NYTTopStories, Part 11](https://youtu.be/RdFr33xlq-k)
   
 </details> 
 
