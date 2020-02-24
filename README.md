@@ -354,6 +354,28 @@
 </details> 
 
 
+## Unit 5
+<details> 
+  <summary>Local Notifications, CoreLocation, MapKit, Firebase, CoreData, KVO</summary>
+  
+#### In-class Xcode Projects and Playgrounds
+
+1. [LocalNofitications](https://github.com/alexpaul/LocalNotifications)
+1. [CoreLocation](https://github.com/alexpaul/CoreLocation-MapKit-Intro)
+1. [MapKitDemo](https://github.com/alexpaul/MapKitDemo)
+
+
+#### Lecture Videos
+
+1. [Local Notifications, Part 1](https://www.youtube.com/watch?v=aqwhmeKzwKE&t=19s)
+1. [Local Nofifications, Part 2](https://www.youtube.com/watch?v=6ZeDr3JM728&t=3s)
+1. [CoreLocation, MapKit, Part 1](https://www.youtube.com/watch?v=vukQjB6TuBA&t=5s)
+1. [CoreLocation, MapKit, Part 2](https://www.youtube.com/watch?v=M9m8fIYgj20)
+1. [CoreLocation, MapKit, Part 3](https://www.youtube.com/watch?v=o86KJeU9MJA&t=8s)
+
+</details> 
+
+
 ## Data Structures and Algorithms
 <details> 
   <summary>Data Structures and Algorithms</summary>
