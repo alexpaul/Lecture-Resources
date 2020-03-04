@@ -374,6 +374,10 @@
 1. [CoreLocation, MapKit, Part 3](https://www.youtube.com/watch?v=o86KJeU9MJA&t=8s)
 1. [MapKit, Part 1](https://youtu.be/RIvpLi5H3Y8)
 1. [MapKit, Part 2](https://youtu.be/4q_fQh7UsWc)
+1. [CocoaPods, Part 1](https://www.youtube.com/watch?v=eSBqjXZkHTI&t)
+1. [CocoaPods, Part 2](https://www.youtube.com/watch?v=EwDIdrhqReY&t)
+1. [CocoaPods, Part 3](https://www.youtube.com/watch?v=SQaUi66Ns10&t)
+
 
 </details> 
 
