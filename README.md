@@ -405,6 +405,7 @@
 1. [Generics, In-Out Functions, Stacks](https://github.com/alexpaul/Lecture-Resources/blob/master/Unit4/Generics-inout-Functions-Stacks.playground/Contents.swift)
 1. [Recursion](https://github.com/alexpaul/Recursion)
 1. [LinkedList](https://github.com/alexpaul/Lecture-Resources/blob/master/Unit4/LinkedList.playground/Contents.swift)
+1. [Queues - Implementation using an array](https://github.com/alexpaul/Lecture-Resources/blob/master/Unit5/Queues.playground/Contents.swift)
 
 
 #### Lecture Videos
@@ -423,6 +424,7 @@
 1. [Recursion, Part 3](https://youtu.be/lhwNwSXH_Yw)
 1. [Linked List, Part 1](https://youtu.be/lEN7OfQNdX4)
 1. [Linked List, Part 2](https://youtu.be/hxH41LdYZ5E)
+1. [Queue implementation using an array](https://youtu.be/QsPnJvl-iWg)
 
 </details> 
 
