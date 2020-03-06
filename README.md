@@ -383,6 +383,7 @@
 1. [Firebase Firestore, Part 1](https://www.youtube.com/watch?v=emS9N-SBrYc&t=978s)
 1. [Firebase Firestore, Part 2](https://www.youtube.com/watch?v=Wcd3lRY7G9s&t=2s)
 1. [Firebase Storage, Part 1](https://youtu.be/x8MlfDWr2rk)
+1. [Firebase Storage, Part 2](https://youtu.be/did8HPjveQM)
 
 
 
