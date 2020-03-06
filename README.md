@@ -407,6 +407,9 @@
 1. [Recursion](https://github.com/alexpaul/Recursion)
 1. [LinkedList](https://github.com/alexpaul/Lecture-Resources/blob/master/Unit4/LinkedList.playground/Contents.swift)
 1. [Queues - Implementation using an array](https://github.com/alexpaul/Lecture-Resources/blob/master/Unit5/Queues.playground/Contents.swift)
+1. [Bubble sort](https://github.com/alexpaul/Lecture-Resources/blob/master/Unit5/BubbleSort.playground/Contents.swift)
+1. [Insertion sort](https://github.com/alexpaul/Lecture-Resources/blob/master/Unit5/InsertionSort.playground/Contents.swift)
+
 
 
 #### Lecture Videos
@@ -426,6 +429,8 @@
 1. [Linked List, Part 1](https://youtu.be/lEN7OfQNdX4)
 1. [Linked List, Part 2](https://youtu.be/hxH41LdYZ5E)
 1. [Queue implementation using an array](https://youtu.be/QsPnJvl-iWg)
+1. [Bubble Sort](https://youtu.be/A3JmwKeKin8)
+1. [Insertion Sort](https://youtu.be/X7R29WztxvA)
 
 </details> 
 
