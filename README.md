@@ -409,6 +409,9 @@
 1. [Queues - Implementation using an array](https://github.com/alexpaul/Lecture-Resources/blob/master/Unit5/Queues.playground/Contents.swift)
 1. [Bubble sort](https://github.com/alexpaul/Lecture-Resources/blob/master/Unit5/BubbleSort.playground/Contents.swift)
 1. [Insertion sort](https://github.com/alexpaul/Lecture-Resources/blob/master/Unit5/InsertionSort.playground/Contents.swift)
+1. [Quick Sort](https://github.com/alexpaul/Lecture-Resources/blob/master/Unit5/QuickSort.playground/Contents.swift)
+1. [Merge Sort](https://github.com/alexpaul/Lecture-Resources/blob/master/Unit5/MergeSort.playground/Contents.swift)
+1. [Binary Search](https://github.com/alexpaul/Lecture-Resources/blob/master/Unit5/BinarySearch.playground/Contents.swift)
 
 
 
@@ -431,6 +434,10 @@
 1. [Queue implementation using an array](https://youtu.be/QsPnJvl-iWg)
 1. [Bubble Sort](https://youtu.be/A3JmwKeKin8)
 1. [Insertion Sort](https://youtu.be/X7R29WztxvA)
+1. [Quick Sort](https://www.youtube.com/watch?v=lf8myWPFBk4&t)
+1. [Merge Sort](https://www.youtube.com/watch?v=UOJjMVkY47g&t)
+1. [Binary Search](https://youtu.be/sz4SY0y4fYo)
+
 
 </details> 
 
