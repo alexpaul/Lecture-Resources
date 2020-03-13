@@ -364,7 +364,7 @@
 1. [CoreLocation](https://github.com/alexpaul/CoreLocation-MapKit-Intro)
 1. [MapKitDemo](https://github.com/alexpaul/MapKitDemo)
 1. [CocoaPods Demo](https://github.com/alexpaul/CocoaPods-Demo)
-1. [Firebase-Demo](https://github.com/alexpaul/Firebase-Demo)
+1. [Firebase-Demo (Marketplace app)](https://github.com/alexpaul/Firebase-Demo)
 
 
 #### Lecture Videos
@@ -385,6 +385,11 @@
 1. [Firebase Storage, Part 1](https://youtu.be/x8MlfDWr2rk)
 1. [Firebase Storage, Part 2](https://youtu.be/did8HPjveQM)
 1. [Firebase - users collection, delete item](https://youtu.be/rYxjGJiK3yI)
+1. [Firebase - setting the comment UI](https://youtu.be/8nMaJv9VnTE)
+1. [Firebase - comments, sub-collections](https://youtu.be/3HM5twgqrgQ)
+1. [Firebase - querying a collection, favoriting an item](https://youtu.be/XNirGZSW2aQ)
+1. [Firebase - fetching and presenting favorites](https://youtu.be/F1CoJiOyv3E)
+1. [Firebase - show a specific user's items, custom delegation](https://youtu.be/Q0QpIGI59XA)
 
 
 </details> 
