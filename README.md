@@ -417,6 +417,7 @@
 1. [Quick Sort](https://github.com/alexpaul/Lecture-Resources/blob/master/Unit5/QuickSort.playground/Contents.swift)
 1. [Merge Sort](https://github.com/alexpaul/Lecture-Resources/blob/master/Unit5/MergeSort.playground/Contents.swift)
 1. [Binary Search](https://github.com/alexpaul/Lecture-Resources/blob/master/Unit5/BinarySearch.playground/Contents.swift)
+1. [Binary Tree - Breadth-first traversal](https://github.com/alexpaul/Lecture-Resources/blob/master/CTA/Binary-Tree-Breadth-First-Traversal.playground/Contents.swift)
 
 
 
@@ -442,6 +443,7 @@
 1. [Quick Sort](https://www.youtube.com/watch?v=lf8myWPFBk4&t)
 1. [Merge Sort](https://www.youtube.com/watch?v=UOJjMVkY47g&t)
 1. [Binary Search](https://youtu.be/sz4SY0y4fYo)
+1. [Binary Tree - Breadth-first traversal](https://youtu.be/04FImfOlI-Y)
 
 
 </details> 
