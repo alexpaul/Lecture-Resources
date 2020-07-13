@@ -394,6 +394,13 @@
 
 </details> 
 
+## Unit 6 
+
+[Repo Link](https://github.com/alexpaul/Lecture-Resources/tree/master/Unit6)
+
+## Unit 7
+
+[Repo Link](https://github.com/alexpaul/Lecture-Resources/tree/master/Unit7)
 
 ## Data Structures and Algorithms
 <details> 
