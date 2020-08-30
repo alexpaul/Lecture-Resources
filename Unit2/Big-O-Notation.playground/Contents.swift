@@ -114,6 +114,6 @@ func compoundRuntimes(arr: [Int]) {
     }
   }
 }
-// solution: O(n)
+// solution: O(n ^ 2)
 
 
