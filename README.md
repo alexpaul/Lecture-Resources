@@ -394,11 +394,11 @@
 
 </details> 
 
-## Unit 6 
+## Unit 6 - CTA, Capstone
 
 [Repo Link](https://github.com/alexpaul/Lecture-Resources/tree/master/Unit6)
 
-## Unit 7
+## Unit 7 - Job Readiness, Job Search
 
 [Repo Link](https://github.com/alexpaul/Lecture-Resources/tree/master/Unit7)
 
