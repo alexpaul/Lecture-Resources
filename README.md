@@ -397,6 +397,7 @@
 ## Unit 6 - CTA, Capstone
 
 [Repo Link](https://github.com/alexpaul/Lecture-Resources/tree/master/Unit6)
+[CoreData - Number Facts](https://github.com/alexpaul/CoreData-Number-Facts)
 
 ## Unit 7 - Job Readiness, Job Search
 
