@@ -1,5 +1,7 @@
 # Lecture Resources (Projects, Videos)
 
+<a href="https://www.buymeacoffee.com/alexpaulnyc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 ## Unit 1
 
 <details> 
